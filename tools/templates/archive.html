@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}">
+  <link rel="icon" href="{{ROOT}}favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ROOT}}css/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to stories</a>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand-compact" href="{{ROOT}}index.html">
+      What The<span class="mark-q">?</span>
+      <span class="news-stamp">News</span>
+    </a>
+    <nav class="site-nav" aria-label="Site">
+      <a href="{{ROOT}}index.html"{{NAV_TODAY}}>Today</a>
+      <a href="{{ROOT}}archive.html"{{NAV_ARCHIVE}}>Archive</a>
+      <a href="{{ROOT}}about.html"{{NAV_ABOUT}}>About</a>
+    </nav>
+  </div>
+</header>
+  <main id="main" class="wrap-page">
+    <h1 class="page-title">Archive</h1>
+    <p class="page-intro">Past editions of What The? News, newest first.</p>
+    <ol class="edition-list">
+      {{EDITIONS}}
+    </ol>
+  </main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>What The? News is a WorldTurtleGod Studios project.</p>
+    <p><a href="{{ROOT}}about.html">About the desk</a> · <a href="{{ROOT}}archive.html">Archive</a></p>
+  </div>
+</footer>
+</body>
+</html>

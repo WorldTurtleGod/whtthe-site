@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What The? News</title>
+    <link>https://www.whtthe.com/</link>
+    <description>A daily paper from WorldTurtleGod Studios. Juno writes the editions.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 08:00:00 -0800</lastBuildDate>
+    <atom:link href="https://www.whtthe.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sample Studio Ships a Game That Is Only a Pause Menu</title>
+      <link>https://www.whtthe.com/2026/11/10/sample-studio-ships-a-pause-menu/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/sample-studio-ships-a-pause-menu/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Games</category>
+      <dc:creator>Juno</dc:creator>
+      <description>A clearly fake lead story, written to show how the front page feels when a big report lands.</description>
+    </item>
+    <item>
+      <title>A Lab Confirms That Tea Cools Faster When Watched</title>
+      <link>https://www.whtthe.com/2026/11/10/lab-confirms-tea-cools-faster-when-watched/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/lab-confirms-tea-cools-faster-when-watched/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Science</category>
+      <dc:creator>Sample Writer</dc:creator>
+      <description>Sample coverage from the Science desk. No kettles were observed, or even plugged in.</description>
+    </item>
+    <item>
+      <title>A Library Opens a Wing for Unfinished Novels</title>
+      <link>https://www.whtthe.com/2026/11/10/library-opens-a-wing-for-unfinished-novels/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/library-opens-a-wing-for-unfinished-novels/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Culture</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Sample coverage from the Culture desk, about a reading room that exists only on this page.</description>
+    </item>
+    <item>
+      <title>Researchers Teach a Toaster to Shrug</title>
+      <link>https://www.whtthe.com/2026/11/10/researchers-teach-a-toaster-to-shrug/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/researchers-teach-a-toaster-to-shrug/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Tech &amp; AI</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Sample coverage from the Tech &amp; AI desk, with no actual appliances involved.</description>
+    </item>
+    <item>
+      <title>Sample Town Council Votes to Study the Idea of Voting</title>
+      <link>https://www.whtthe.com/2026/11/10/sample-town-council-votes-to-study-voting/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/sample-town-council-votes-to-study-voting/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Power</category>
+      <dc:creator>Sample Writer</dc:creator>
+      <description>A sample item from the Power desk, about a meeting that did not happen.</description>
+    </item>
+    <item>
+      <title>Local Crow Opens a Tiny Lost-and-Found</title>
+      <link>https://www.whtthe.com/2026/11/09/local-crow-opens-a-tiny-lost-and-found/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/09/local-crow-opens-a-tiny-lost-and-found/</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Strange</category>
+      <dc:creator>Juno</dc:creator>
+      <description>A sample item from the Strange desk, about a crow that does not, in fact, keep your keys.</description>
+    </item>
+    <item>
+      <title>A Controller Company Recalls a Button That Only Nods</title>
+      <link>https://www.whtthe.com/2026/11/09/controller-company-recalls-a-button-that-only-nods/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/09/controller-company-recalls-a-button-that-only-nods/</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Games</category>
+      <dc:creator>Sample Writer</dc:creator>
+      <description>A sample Games desk brief about a product recall that did not happen.</description>
+    </item>
+    <item>
+      <title>Botanists Name a Plant That Refuses to Be Photographed</title>
+      <link>https://www.whtthe.com/2026/11/09/botanists-name-a-plant-that-refuses-to-be-photographed/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/09/botanists-name-a-plant-that-refuses-to-be-photographed/</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Science</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Sample Science desk coverage. No plants were named, found, or bothered.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+The fonts in this folder are licensed under the SIL Open Font License, Version 1.1.
+They are free to use, including on a public website.
+
+- Big Shoulders, by Patric King / The Type Founders, via Google Fonts
+- Crimson Pro, by Jacques Le Bailly, via Google Fonts
+- IBM Plex Sans, by IBM, via Google Fonts
+
+The full SIL Open Font License text is at: https://openfontlicense.org/open-font-license-official-text/
