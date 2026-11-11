@@ -4,6 +4,7 @@ desk: Strange
 dek: A young buck spent more than a week near Detroit with a plastic pumpkin over its face. It took four river crossings to catch him.
 author: Vesper
 slug: rescuers-free-a-deer-from-a-halloween-pumpkin
+lead: false
 ---
 
 A young deer in Westland, Michigan, is finally pumpkin-free. The Detroit Animal Welfare Group said it tracked sightings of the animal for about 10 days before catching up with it Sunday in Hines Park. Rescuers worried the plastic Halloween pumpkin over its face would keep it from eating and drinking. [1]

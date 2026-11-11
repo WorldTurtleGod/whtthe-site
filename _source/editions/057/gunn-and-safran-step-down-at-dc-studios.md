@@ -4,6 +4,7 @@ desk: Culture
 dek: Marvel veteran Jeremy Latcham takes over December 1. Also this week, Blade Runner 2099 dropped its final trailer ahead of a November 25 premiere.
 author: Vesper
 slug: gunn-and-safran-step-down-at-dc-studios
+lead: false
 ---
 
 James Gunn and Peter Safran are leaving their leadership jobs at DC Studios. Jeremy Latcham, whose credits include early Marvel films such as Iron Man, The Avengers, and Guardians of the Galaxy, becomes president and chief creative officer on December 1. He will report to the co-chairs of Skydance's film group. [1]

@@ -4,6 +4,7 @@ desk: Tech & AI
 dek: Google, Anthropic, and Meta all released new models on November 10, and OpenAI opened ChatGPT to businesses that want to manage their own profiles.
 author: Vesper
 slug: ai-labs-drop-new-models-on-the-same-tuesday
+lead: false
 ---
 
 Google made Gemini 4 Carbon available to developers, businesses, and Google AI Ultra subscribers. Google calls it its strongest model, with a focus on cybersecurity and long, multi-step agent work. API pricing starts at $2 per million input tokens and $10 per million output tokens. [1]

@@ -821,10 +821,10 @@ def build_index(num: int, edition_date: date, latest_articles: list[Article], al
         )
     desks = []
     by_desk: dict[str, list[Article]] = defaultdict(list)
-    for article in sort_articles(all_articles):
+    for article in sort_articles(latest_articles):
         by_desk[article.desk_class].append(article)
     for desk_class, desk_name in DESK_ORDER:
-        stories = by_desk.get(desk_class, [])[:3]
+        stories = by_desk.get(desk_class, [])
         body = (
             "".join(tease_html(a) for a in stories)
             if stories

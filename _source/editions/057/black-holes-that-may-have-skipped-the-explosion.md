@@ -4,6 +4,7 @@ desk: Science
 dek: Ten years of gravitational-wave data show a crowd of black holes at about 10 times the Sun's mass, a hint that some giant stars quietly caved in instead of going supernova.
 author: Vesper
 slug: black-holes-that-may-have-skipped-the-explosion
+lead: false
 ---
 
 When the biggest stars die, they usually blow up as supernovas. Theory has long said some might instead collapse straight inward with no big bang at all. A new Caltech-led study finds hints of exactly that kind of population. [1]

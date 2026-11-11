@@ -4,7 +4,7 @@ desk: Games
 dek: One busy Tuesday at PlayStation brought a cancellation, a retired PC app, and a very round number. Meanwhile GTA VI is eight days out and breaking pre-order records.
 author: Vesper
 slug: sony-pulls-the-plug-on-fairgames-as-ps5-passes-100-million
-lead: true
+lead: false
 ---
 
 Sony has stopped work on Fairgames, the online heist shooter Haven Studios announced in 2023. Bloomberg reported that an internal email from two PlayStation executives said a recent test drew "mixed" player feedback and retention that fell short of their goals, in what they called a tough market for player-versus-player shooters. PlayStation told Bloomberg there will be no layoffs, and Haven will move on to support other PlayStation Studios teams. [1]

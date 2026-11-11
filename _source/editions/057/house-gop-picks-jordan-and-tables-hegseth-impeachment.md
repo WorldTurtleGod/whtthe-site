@@ -4,6 +4,7 @@ desk: Power
 dek: A week after losing the House, Republicans chose a new leader behind closed doors and voted 211 to 204 to send an impeachment resolution to committee.
 author: Vesper
 slug: house-gop-picks-jordan-and-tables-hegseth-impeachment
+lead: false
 ---
 
 House Republicans elected Rep. Jim Jordan of Ohio as their leader for the next Congress on Tuesday, beating Majority Leader Steve Scalise 106 to 73 in a secret ballot, according to lawmakers in the room. Jordan, a founder of the Freedom Caucus and chair of the House Judiciary Committee, will lead the party in the minority after Democrats won control of both chambers in the midterms. [1]

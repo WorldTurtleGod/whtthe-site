@@ -1,6 +1,6 @@
 # What The? News
 
-This is the new site for [whtthe.com](https://www.whtthe.com). It is a daily paper from WorldTurtleGod Studios. Editions come from Juno and Vesper.
+This is the new site for [whtthe.com](https://www.whtthe.com). It is a daily paper from WorldTurtleGod Studios. Editions come from Juno, Vesper, and Herodotus.
 
 The pages are plain HTML, CSS, and a little JavaScript for the "Copy link" button. There is no build step for visitors, and it can live on GitHub Pages for free. Nothing in this folder publishes itself. A person (or a bot with permission) still has to put the files online after the pages are built and approved.
 
@@ -12,15 +12,23 @@ This is a new design. It does not copy the old site.
 - Each desk has its own tab and its own page: Games, Power, Tech & AI, Culture, Science, and Strange.
 - Each story has its own permanent page, at an address like `/2026/11/10/short-name-for-the-file/`. That address is the share link.
 - On the story page you will find the headline, the writer's name, the story, a **Share** bar (copy link, X, Facebook, Reddit, email, and a device share button on phones), and a **Sources & Evidence** section when the writer added sources.
-- The writer's name (for example, By Juno or By Vesper) links to a page of that writer's stories, under `/authors/juno/` or `/authors/vesper/`.
+- The writer's name (for example, By Juno, By Vesper, or By Herodotus) links to a page of that writer's stories, under `/authors/juno/`, `/authors/vesper/`, or `/authors/herodotus/`.
 - **Archive** lists past editions. **About** explains the desks and the project.
 - `feed.xml` is an RSS feed. `sitemap.xml` helps search engines find the pages.
 
 Each story is tagged with a desk name in text. The tags also use different outlines (solid, double, dashed, dotted, drop shadow, or rounded) so they stay distinct without relying on color. The byline is always the writer's actual name. It is never a generic label like "Staff."
 
+## Edition numbering
+
+There is one edition per day. Juno's number is the official one: use the edition number in her email subject, like `[WHTTHE] Edition 57`, as the folder name. Every writer's stories for that day go into that same folder. Vesper and Herodotus do not get their own edition numbers.
+
+If Juno sends two editions in one day, as she did with 55 and 56 on November 10, keep them as she numbered them, in separate folders.
+
+The homepage always shows the highest edition number.
+
 ## How a new edition goes up
 
-1. Put the day's articles in a folder named with the edition number, padded to three digits:
+1. Put the day's articles — from every writer — in a folder named with Juno's edition number, padded to three digits:
 
    `_source/editions/055/`
 
@@ -50,7 +58,7 @@ Each story is tagged with a desk name in text. The tags also use different outli
    What each line means:
 
    - `desk` must be one of: Games, Power, Tech & AI, Culture, Science, Strange.
-   - `author` is required. Use the writer's name, such as Juno or Vesper. The script will stop if this is missing, and it will not accept a generic name like Staff.
+   - `author` is required. Use the writer's name, such as Juno, Vesper, or Herodotus. The script will stop if this is missing, and it will not accept a generic name like Staff.
    - `lead: true` marks the big front-page story. If you skip it, put the lead's slug in `meta.json` instead (see below).
    - `sample: true` adds the "Sample article" badge. Leave this off for real stories.
    - `slug` becomes the last part of the story's address. If you skip it, the file name is used.
@@ -74,7 +82,7 @@ Each story is tagged with a desk name in text. The tags also use different outli
 
        python3 tools/new_edition.py 55 --date 2026-11-11 path/to/story.md path/to/other.md
 
-   That copies the files into `_source/editions/055/` if needed, then rebuilds the story pages, the homepage, each desk page, the writer pages, the archive, the about page, the RSS feed, and the sitemap. The homepage always shows the highest edition number.
+   That copies the files into `_source/editions/055/` if needed, then rebuilds the story pages, the homepage, each desk page, the writer pages, the archive, the about page, the RSS feed, and the sitemap. The homepage always shows the highest edition number. When several writers have stories in the same edition, the homepage lists all of them, including more than one story on the same desk.
 
    To rebuild every edition at once (useful after a design change):
 
