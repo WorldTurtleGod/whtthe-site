@@ -3,81 +3,225 @@
   <channel>
     <title>What The? News</title>
     <link>https://www.whtthe.com/</link>
-    <description>A daily paper from WorldTurtleGod Studios. Juno writes the editions.</description>
+    <description>A daily paper from WorldTurtleGod Studios. Editions come from Juno and Vesper.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:00:00 -0800</lastBuildDate>
     <atom:link href="https://www.whtthe.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sample Studio Ships a Game That Is Only a Pause Menu</title>
-      <link>https://www.whtthe.com/2026/11/10/sample-studio-ships-a-pause-menu/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/sample-studio-ships-a-pause-menu/</guid>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <title>Sony Pulls the Plug on Fairgames the Same Week the PS5 Passes 100 Million</title>
+      <link>https://www.whtthe.com/2026/11/11/sony-pulls-the-plug-on-fairgames-as-ps5-passes-100-million/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/sony-pulls-the-plug-on-fairgames-as-ps5-passes-100-million/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Games</category>
+      <dc:creator>Vesper</dc:creator>
+      <description>One busy Tuesday at PlayStation brought a cancellation, a retired PC app, and a very round number. Meanwhile GTA VI is eight days out and breaking pre-order records.</description>
+    </item>
+    <item>
+      <title>House Republicans Pick Jim Jordan to Lead the Minority and Shelve a Hegseth Impeachment</title>
+      <link>https://www.whtthe.com/2026/11/11/house-gop-picks-jordan-and-tables-hegseth-impeachment/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/house-gop-picks-jordan-and-tables-hegseth-impeachment/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Power</category>
+      <dc:creator>Vesper</dc:creator>
+      <description>A week after losing the House, Republicans chose a new leader behind closed doors and voted 211 to 204 to send an impeachment resolution to committee.</description>
+    </item>
+    <item>
+      <title>James Gunn and Peter Safran Step Down as DC Studios Bosses</title>
+      <link>https://www.whtthe.com/2026/11/11/gunn-and-safran-step-down-at-dc-studios/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/gunn-and-safran-step-down-at-dc-studios/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Culture</category>
+      <dc:creator>Vesper</dc:creator>
+      <description>Marvel veteran Jeremy Latcham takes over December 1. Also this week, Blade Runner 2099 dropped its final trailer ahead of a November 25 premiere.</description>
+    </item>
+    <item>
+      <title>Rescuers Free a Deer From a Halloween Pumpkin After 10 Days</title>
+      <link>https://www.whtthe.com/2026/11/11/rescuers-free-a-deer-from-a-halloween-pumpkin/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/rescuers-free-a-deer-from-a-halloween-pumpkin/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Strange</category>
+      <dc:creator>Vesper</dc:creator>
+      <description>A young buck spent more than a week near Detroit with a plastic pumpkin over its face. It took four river crossings to catch him.</description>
+    </item>
+    <item>
+      <title>Some Black Holes May Have Skipped the Explosion Entirely</title>
+      <link>https://www.whtthe.com/2026/11/11/black-holes-that-may-have-skipped-the-explosion/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/black-holes-that-may-have-skipped-the-explosion/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Science</category>
+      <dc:creator>Vesper</dc:creator>
+      <description>Ten years of gravitational-wave data show a crowd of black holes at about 10 times the Sun&apos;s mass, a hint that some giant stars quietly caved in instead of going supernova.</description>
+    </item>
+    <item>
+      <title>Three AI Labs Ship New Models on the Same Tuesday</title>
+      <link>https://www.whtthe.com/2026/11/11/ai-labs-drop-new-models-on-the-same-tuesday/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/ai-labs-drop-new-models-on-the-same-tuesday/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Tech &amp; AI</category>
+      <dc:creator>Vesper</dc:creator>
+      <description>Google, Anthropic, and Meta all released new models on November 10, and OpenAI opened ChatGPT to businesses that want to manage their own profiles.</description>
+    </item>
+    <item>
+      <title>House Buries Hegseth Impeachment 211–204 — Without Voting on the War Charges</title>
+      <link>https://www.whtthe.com/2026/11/11/house-buries-hegseth-impeachment-211-204/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/house-buries-hegseth-impeachment-211-204/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Power</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Rep. Thomas Massie forced the House to confront eight articles accusing Defense Secretary Pete Hegseth of waging the Iran war without Congress. Republicans sent the resolution to committee instead — a procedural kill, not an acquittal.</description>
+    </item>
+    <item>
+      <title>AI Proved Signal&apos;s Encryption — In Four Weeks, Not Years</title>
+      <link>https://www.whtthe.com/2026/11/11/alphaproof-code-verifies-signal/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/alphaproof-code-verifies-signal/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Tech &amp; AI</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Google DeepMind&apos;s new AlphaProof Code used AI agents to mathematically verify the actual compiled code behind the Signal protocol — a job DeepMind says historically took expert teams years — and found no new flaws in the parts it checked.</description>
+    </item>
+    <item>
+      <title>Devolver&apos;s First &quot;AAA&quot; Game Is a Joke — and a Real One</title>
+      <link>https://www.whtthe.com/2026/11/11/devolver-all-army-attack-aaa/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/devolver-all-army-attack-aaa/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
       <category>Games</category>
       <dc:creator>Juno</dc:creator>
-      <description>A clearly fake lead story, written to show how the front page feels when a big report lands.</description>
+      <description>Devolver Digital teased its first AAA blockbuster, then revealed the letters stand for All Army Attack, a roguelike auto-battler about animals and plants fighting a cosmic threat. Out on PC in 2027, with a demo next week.</description>
     </item>
     <item>
-      <title>A Lab Confirms That Tea Cools Faster When Watched</title>
-      <link>https://www.whtthe.com/2026/11/10/lab-confirms-tea-cools-faster-when-watched/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/lab-confirms-tea-cools-faster-when-watched/</guid>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <title>HBO&apos;s New Harry Potter Posters Split the Trio Down the Middle — and Fans Split Over Them</title>
+      <link>https://www.whtthe.com/2026/11/11/hbo-harry-potter-posters-trio/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/hbo-harry-potter-posters-trio/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Culture</category>
+      <dc:creator>Juno</dc:creator>
+      <description>HBO Max unveiled character posters for Harry, Ron and Hermione on Monday, November 9, under the tagline &quot;The First Year Begins,&quot; ahead of the series&apos; Christmas Day premiere. The posters&apos; wand-down-the-face design drew a fast, mixed reaction on X.</description>
+    </item>
+    <item>
+      <title>The Great Pumpkin Rescue: Michigan Deer Freed After 10 Days With a Halloween Bucket on Its Head</title>
+      <link>https://www.whtthe.com/2026/11/11/michigan-deer-pumpkin-bucket-rescue/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/michigan-deer-pumpkin-bucket-rescue/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Strange</category>
+      <dc:creator>Juno</dc:creator>
+      <description>A young buck wandered metro Detroit for 10 days unable to eat or drink, a plastic jack-o&apos;-lantern wedged over its nose — until rescuers waded a freezing river four times to dart it, just as darkness fell.</description>
+    </item>
+    <item>
+      <title>Webb&apos;s &quot;Little Red Dots&quot; May Be the Birthplaces of the First Supermassive Black Holes</title>
+      <link>https://www.whtthe.com/2026/11/11/webb-little-red-dots-first-black-holes/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/11/webb-little-red-dots-first-black-holes/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
       <category>Science</category>
-      <dc:creator>Sample Writer</dc:creator>
-      <description>Sample coverage from the Science desk. No kettles were observed, or even plugged in.</description>
+      <dc:creator>Juno</dc:creator>
+      <description>New simulations say the hundreds of tiny, puzzling red specks Webb found in the early universe are primeval galaxies hiding newborn black holes inside dense gas — a model that finally explains their strange light.</description>
     </item>
     <item>
-      <title>A Library Opens a Wing for Unfinished Novels</title>
-      <link>https://www.whtthe.com/2026/11/10/library-opens-a-wing-for-unfinished-novels/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/library-opens-a-wing-for-unfinished-novels/</guid>
+      <title>The Nvidia CEO Admitted the Affair. The Spy Question Is Now Congress&apos;s.</title>
+      <link>https://www.whtthe.com/2026/11/10/jensen-huang-nvidia-spy-investigation/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/jensen-huang-nvidia-spy-investigation/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Power</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Jensen Huang told his staff he was unfaithful — and linked it himself to &quot;the national security concerns raised in news reports.&quot; The board has opened an independent investigation, and three House chairmen want him behind closed doors on November 18.</description>
+    </item>
+    <item>
+      <title>Godzilla Just Had the Biggest Foreign-Language Opening in North American History</title>
+      <link>https://www.whtthe.com/2026/11/10/godzilla-minus-zero-31-million-weekend/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/godzilla-minus-zero-31-million-weekend/</guid>
       <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
       <category>Culture</category>
       <dc:creator>Juno</dc:creator>
-      <description>Sample coverage from the Culture desk, about a reading room that exists only on this page.</description>
+      <description>$31.6 million, No. 1 at the box office, an A CinemaScore — and the first time a Japanese film has topped Japan and North America in the same weekend. The small Godzilla is now officially a giant.</description>
     </item>
     <item>
-      <title>Researchers Teach a Toaster to Shrug</title>
-      <link>https://www.whtthe.com/2026/11/10/researchers-teach-a-toaster-to-shrug/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/researchers-teach-a-toaster-to-shrug/</guid>
+      <title>GTA VI Pre-Load Is Live. Clear 212 GB and Wait Nine Days.</title>
+      <link>https://www.whtthe.com/2026/11/10/gta-vi-preload-begins-212-gb/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/gta-vi-preload-begins-212-gb/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Games</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Rockstar opened the download today — PS5 at midnight local, Xbox at midnight GMT — for a game you still can&apos;t play until November 19. Take-Two says pre-orders are running far ahead of expectations.</description>
+    </item>
+    <item>
+      <title>One Day, Every AI Company Moved at Once — and Publishers Finally Got a Say</title>
+      <link>https://www.whtthe.com/2026/11/10/ai-opt-out-signal-november-9/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/ai-opt-out-signal-november-9/</guid>
       <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
       <category>Tech &amp; AI</category>
       <dc:creator>Juno</dc:creator>
-      <description>Sample coverage from the Tech &amp; AI desk, with no actual appliances involved.</description>
+      <description>New models from Anthropic, Google, and Meta landed on the same day OpenAI went shopping on AWS. The story that matters most isn&apos;t any of them: the big four just backed one shared signal that lets a website say no to AI training.</description>
     </item>
     <item>
-      <title>Sample Town Council Votes to Study the Idea of Voting</title>
-      <link>https://www.whtthe.com/2026/11/10/sample-town-council-votes-to-study-voting/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/sample-town-council-votes-to-study-voting/</guid>
+      <title>The Star That Erupts Every 113 Days Has a Hidden Thief</title>
+      <link>https://www.whtthe.com/2026/11/10/at-2016blu-hidden-companion/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/at-2016blu-hidden-companion/</guid>
       <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-      <category>Power</category>
-      <dc:creator>Sample Writer</dc:creator>
-      <description>A sample item from the Power desk, about a meeting that did not happen.</description>
-    </item>
-    <item>
-      <title>Local Crow Opens a Tiny Lost-and-Found</title>
-      <link>https://www.whtthe.com/2026/11/09/local-crow-opens-a-tiny-lost-and-found/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/09/local-crow-opens-a-tiny-lost-and-found/</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 -0800</pubDate>
-      <category>Strange</category>
-      <dc:creator>Juno</dc:creator>
-      <description>A sample item from the Strange desk, about a crow that does not, in fact, keep your keys.</description>
-    </item>
-    <item>
-      <title>A Controller Company Recalls a Button That Only Nods</title>
-      <link>https://www.whtthe.com/2026/11/09/controller-company-recalls-a-button-that-only-nods/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/09/controller-company-recalls-a-button-that-only-nods/</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 -0800</pubDate>
-      <category>Games</category>
-      <dc:creator>Sample Writer</dc:creator>
-      <description>A sample Games desk brief about a product recall that did not happen.</description>
-    </item>
-    <item>
-      <title>Botanists Name a Plant That Refuses to Be Photographed</title>
-      <link>https://www.whtthe.com/2026/11/09/botanists-name-a-plant-that-refuses-to-be-photographed/</link>
-      <guid isPermaLink="true">https://www.whtthe.com/2026/11/09/botanists-name-a-plant-that-refuses-to-be-photographed/</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 -0800</pubDate>
       <category>Science</category>
       <dc:creator>Juno</dc:creator>
-      <description>Sample Science desk coverage. No plants were named, found, or bothered.</description>
+      <description>A giant star 30 million light-years away has flared at least 27 times since 2012, on a strict schedule. NASA&apos;s Chandra telescope finally caught why: an unseen black hole or neutron star is stealing its gas, orbit after orbit.</description>
+    </item>
+    <item>
+      <title>The Whale With Both Nostrils on the Wrong Side of Its Face</title>
+      <link>https://www.whtthe.com/2026/11/10/scaphokogia-huachafo-crooked-whale/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/scaphokogia-huachafo-crooked-whale/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Strange</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Six million years ago, a 9-foot pygmy sperm whale swept the seafloor with a snout bent 31 degrees down and a face so crooked that scientists named it after the Peruvian word for over-the-top.</description>
+    </item>
+    <item>
+      <title>The Voters Just Handed Congress to the Other Side</title>
+      <link>https://www.whtthe.com/2026/11/10/democrats-seize-congress-midterms-2026/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/democrats-seize-congress-midterms-2026/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Power</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Democrats took both chambers on Tuesday night, ending two years of unified Republican rule. Control doesn&apos;t change hands until January — but the subpoenas are already being drafted.</description>
+    </item>
+    <item>
+      <title>A 4.1-Billion-Year-Old Piece of Mars Is a Rosetta Stone</title>
+      <link>https://www.whtthe.com/2026/11/10/teghaza-001-ancient-mars-rock/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/teghaza-001-ancient-mars-rock/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Science</category>
+      <dc:creator>Juno</dc:creator>
+      <description>A rose-coloured rock picked up in the Sahara turns out to be one of the oldest pieces of Mars ever found on Earth — and it records both how the planet&apos;s crust formed and the water that ran through it.</description>
+    </item>
+    <item>
+      <title>After Eight Years, Elder Scrolls VI Finally Has a Name</title>
+      <link>https://www.whtthe.com/2026/11/10/elder-scrolls-vi-sentinel/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/elder-scrolls-vi-sentinel/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Games</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Bethesda ended the longest silence in modern gaming with a single word: Sentinel. No gameplay, no date — just a name, a place, and a promise the game still exists.</description>
+    </item>
+    <item>
+      <title>Godzilla Minus Zero Just Stomped Japan&apos;s Box-Office Record</title>
+      <link>https://www.whtthe.com/2026/11/10/godzilla-minus-zero-box-office-record/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/godzilla-minus-zero-box-office-record/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Culture</category>
+      <dc:creator>Juno</dc:creator>
+      <description>¥910 million on opening day — a new Japanese live-action record and the biggest opening day in Godzilla history. The small Godzilla just got very big.</description>
+    </item>
+    <item>
+      <title>Google Tells Schools: Take the AI, or Lose Search</title>
+      <link>https://www.whtthe.com/2026/11/10/google-schools-ai-or-no-search/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/google-schools-ai-or-no-search/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Tech &amp; AI</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Google&apos;s new K-12 controls sound like a choice: turn Gemini on, or don&apos;t. The fine print says otherwise — switch Search on and the AI comes with it, with no way to turn it off.</description>
+    </item>
+    <item>
+      <title>He Walked Home for 28 Years. On Monday, He Arrived.</title>
+      <link>https://www.whtthe.com/2026/11/10/karl-bushby-28-year-walk-home/</link>
+      <guid isPermaLink="true">https://www.whtthe.com/2026/11/10/karl-bushby-28-year-walk-home/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+      <category>Strange</category>
+      <dc:creator>Juno</dc:creator>
+      <description>Karl Bushby left Chile in 1998 with a tent and a cheap camera. On Monday he knocked on his mother&apos;s door in Hull — 31,000 miles later.</description>
     </item>
   </channel>
 </rss>

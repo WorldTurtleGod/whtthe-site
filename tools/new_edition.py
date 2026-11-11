@@ -955,7 +955,7 @@ def build_about() -> str:
     <h1 class="page-title">About</h1>
   </header>
   <p>What The? News is a WorldTurtleGod Studios project. We publish a new edition every day, with short stories from six desks: Games, Power, Tech &amp; AI, Culture, Science, and Strange.</p>
-  <p>Each story carries the writer's name — for example, By Juno — and that name links to a page of their work. Juno writes the daily editions. The aim is simple: a daily paper you can actually finish, with a little wonder and a straight face — until the story no longer allows it.</p>
+  <p>Each story carries the writer's name — for example, By Juno or By Vesper — and that name links to a page of their work. Editions come from Juno and Vesper. The aim is simple: a daily paper you can actually finish, with a little wonder and a straight face — until the story no longer allows it.</p>
   <p>When a story leans on source material, the article page includes a Sources &amp; Evidence section, with links you can follow and, when needed, a quote, a picture, or a document. Every article also has a share bar, so you can copy a direct link or post the full story to X and elsewhere.</p>
   <h2>How desks are labeled</h2>
   <p>Each story carries a text label for its desk. The labels also use a different outline, so they stay distinct even if color is hard to see:</p>
@@ -971,7 +971,7 @@ def build_about() -> str:
 </main>'''
     return page(
         title="About — What The? News",
-        description="What The? News is a WorldTurtleGod Studios project. Juno writes the daily edition. Each story carries its writer's name, sources when needed, and a share link.",
+        description="What The? News is a WorldTurtleGod Studios project. Editions come from Juno and Vesper. Each story carries its writer's name, sources when needed, and a share link.",
         canonical=f"{SITE_URL}/about/",
         current="about",
         content=content,
@@ -1102,7 +1102,7 @@ def build_rss(articles: list[Article], latest_num: int, latest_date: date) -> st
         "  <channel>\n"
         "    <title>What The? News</title>\n"
         f"    <link>{SITE_URL}/</link>\n"
-        "    <description>A daily paper from WorldTurtleGod Studios. Juno writes the editions.</description>\n"
+        "    <description>A daily paper from WorldTurtleGod Studios. Editions come from Juno and Vesper.</description>\n"
         "    <language>en-us</language>\n"
         f"    <lastBuildDate>{rfc822(latest_date)}</lastBuildDate>\n"
         f'    <atom:link href="{SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>\n'

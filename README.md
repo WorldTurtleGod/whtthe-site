@@ -1,6 +1,6 @@
 # What The? News
 
-This is the new site for [whtthe.com](https://www.whtthe.com). It is a daily paper from WorldTurtleGod Studios. Juno writes the editions.
+This is the new site for [whtthe.com](https://www.whtthe.com). It is a daily paper from WorldTurtleGod Studios. Editions come from Juno and Vesper.
 
 The pages are plain HTML, CSS, and a little JavaScript for the "Copy link" button. There is no build step for visitors, and it can live on GitHub Pages for free. Nothing in this folder publishes itself. A person (or a bot with permission) still has to put the files online after the pages are built and approved.
 
@@ -12,13 +12,11 @@ This is a new design. It does not copy the old site.
 - Each desk has its own tab and its own page: Games, Power, Tech & AI, Culture, Science, and Strange.
 - Each story has its own permanent page, at an address like `/2026/11/10/short-name-for-the-file/`. That address is the share link.
 - On the story page you will find the headline, the writer's name, the story, a **Share** bar (copy link, X, Facebook, Reddit, email, and a device share button on phones), and a **Sources & Evidence** section when the writer added sources.
-- The writer's name (for example, By Juno) links to a page of that writer's stories, under `/authors/juno/`.
+- The writer's name (for example, By Juno or By Vesper) links to a page of that writer's stories, under `/authors/juno/` or `/authors/vesper/`.
 - **Archive** lists past editions. **About** explains the desks and the project.
 - `feed.xml` is an RSS feed. `sitemap.xml` helps search engines find the pages.
 
 Each story is tagged with a desk name in text. The tags also use different outlines (solid, double, dashed, dotted, drop shadow, or rounded) so they stay distinct without relying on color. The byline is always the writer's actual name. It is never a generic label like "Staff."
-
-The stories already in the folder are clearly marked **Sample article**. They are fake, for looking at the design. Their source links go to real homepages (such as AP News) only as examples, and are labeled that way. Do not treat the sample stories as news.
 
 ## How a new edition goes up
 
@@ -52,7 +50,7 @@ The stories already in the folder are clearly marked **Sample article**. They ar
    What each line means:
 
    - `desk` must be one of: Games, Power, Tech & AI, Culture, Science, Strange.
-   - `author` is required. Use the writer's name, such as Juno. The script will stop if this is missing, and it will not accept a generic name like Staff.
+   - `author` is required. Use the writer's name, such as Juno or Vesper. The script will stop if this is missing, and it will not accept a generic name like Staff.
    - `lead: true` marks the big front-page story. If you skip it, put the lead's slug in `meta.json` instead (see below).
    - `sample: true` adds the "Sample article" badge. Leave this off for real stories.
    - `slug` becomes the last part of the story's address. If you skip it, the file name is used.
