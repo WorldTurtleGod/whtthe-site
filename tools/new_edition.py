@@ -394,6 +394,7 @@ class Article:
         self.lead = parse_bool(meta.get("lead"))
         self.sample = parse_bool(meta.get("sample"))
         self.image = meta.get("image", "").strip()
+        self.image_alt = meta.get("image_alt", "").strip()
         self.edition = edition
         self.date = edition_date
         if meta.get("date"):
@@ -406,6 +407,7 @@ class Article:
         self.body_html = render_body(body, sources)
         self.source_path = path
         self._check_sources()
+        self._check_image()
 
     def _check_sources(self) -> None:
         label = f"{self.source_path.name} (Edition {self.edition})"
@@ -415,6 +417,15 @@ class Article:
         for number in self.citations:
             if number not in known:
                 warn(f"{label} cites [{number}], but there is no source with that number.")
+
+    def _check_image(self) -> None:
+        if not self.image:
+            return
+        if not self.image_file_exists():
+            warn(
+                f"{self.source_path.name} (Edition {self.edition}) "
+                f"lists image: {self.image_src()}, but that file was not found."
+            )
 
     def path(self) -> str:
         d = self.date
@@ -433,6 +444,26 @@ class Article:
         if self.image:
             return abs_url(self.image)
         return DEFAULT_SHARE_IMAGE
+
+    def image_src(self) -> str:
+        path = self.image
+        if not path:
+            return ""
+        if path.startswith(("http://", "https://", "/")):
+            return path
+        return "/" + path
+
+    def image_alt_text(self) -> str:
+        if self.image_alt:
+            return self.image_alt
+        return f"Illustration for {self.title}"
+
+    def image_file_exists(self) -> bool:
+        src = self.image_src()
+        if not src or src.startswith(("http://", "https://")):
+            return True
+        rel = src[1:] if src.startswith("/") else src
+        return (ROOT / rel).is_file()
 
     def sample_badge(self) -> str:
         if not self.sample:
@@ -592,12 +623,34 @@ def page(
 
 
 def thumb(article: Article, label: str = "Story image coming later") -> str:
+    classes = f"thumb thumb-{article.desk_class}"
+    src = article.image_src()
+    href = esc(article.path())
+    if src:
+        return (
+            f'<a class="{classes} has-image" href="{href}" tabindex="-1" aria-hidden="true">'
+            f'<img src="{esc(src)}" alt="{esc(article.image_alt_text())}" '
+            f'loading="lazy" width="1200" height="675">'
+            f"</a>"
+        )
     return (
-        f'<a class="thumb thumb-{article.desk_class}" href="{esc(article.path())}" tabindex="-1" aria-hidden="true">'
+        f'<a class="{classes}" href="{href}" tabindex="-1" aria-hidden="true">'
         f'<span class="thumb-mark">?</span>'
         f'<span class="thumb-desk">{html.escape(article.desk)}</span>'
         f'<span class="sr-only">Placeholder image</span>'
         f"</a>"
+    )
+
+
+def article_art(article: Article) -> str:
+    src = article.image_src()
+    if not src:
+        return ""
+    return (
+        '<figure class="article-art">'
+        f'<img src="{esc(src)}" alt="{esc(article.image_alt_text())}" width="1200" height="675">'
+        "<figcaption>Illustration: AI-generated</figcaption>"
+        "</figure>"
     )
 
 
@@ -762,6 +815,8 @@ def build_article_page(article: Article, related: list[Article]) -> str:
             f'<meta property="article:section" content="{esc(article.desk)}">',
         ]
     )
+    art = article_art(article)
+    art_block = f"    {art}\n" if art else ""
     more = ""
     others = [a for a in related if a.path() != article.path()][:4]
     if others:
@@ -779,7 +834,7 @@ def build_article_page(article: Article, related: list[Article]) -> str:
       {article.dek_block()}
       <p class="byline">By {article.byline_link()}<span class="sep" aria-hidden="true">·</span><time datetime="{iso}">{format_date(article.date)}</time><span class="sep" aria-hidden="true">·</span>Edition {article.edition}</p>
     </header>
-    <div class="share-wrap">
+{art_block}    <div class="share-wrap">
       {share_bar(article)}
     </div>
     <div class="article-body">

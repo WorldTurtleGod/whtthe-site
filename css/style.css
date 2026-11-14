@@ -496,6 +496,57 @@ a.desk:hover {
 .thumb-science { box-shadow: 5px 5px 0 var(--thumb-shadow); }
 .thumb-strange { border-radius: 1.15rem; }
 
+.thumb.has-image {
+  padding: 0;
+  background: var(--thumb-bg);
+}
+
+.thumb.has-image::before {
+  content: none;
+}
+
+.thumb.has-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: inherit;
+}
+
+.thumb-power.has-image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  box-shadow: inset 0 0 0 3px var(--thumb-bg), inset 0 0 0 6px var(--thumb-fg);
+}
+
+.article-art {
+  width: min(100% - 2rem, var(--article));
+  margin: 0.25rem auto 1.15rem;
+}
+
+.article-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: var(--thumb-bg);
+  border: 1px solid var(--ink);
+}
+
+.article-art figcaption {
+  font-family: var(--ui);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+  margin: 0.45rem 0 0;
+}
+
 /* ----- Homepage ----- */
 
 .edition-line {
