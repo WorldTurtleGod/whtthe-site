@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/fireworks-breach-reaches-notion-ai-chats.jpg
+image_alt: Chat bubbles drifting out of an open door in a dark server room.
 title: Hackers Broke Into an AI Company's Backroom and Walked Out With Notion's Chats
 desk: Tech & AI
 dek: A breach at Fireworks AI, the plumbing behind many AI apps, exposed chat transcripts from Notion AI users. Notion says fewer than 1% of workspaces were touched, and it is telling those users to change any passwords they pasted in.

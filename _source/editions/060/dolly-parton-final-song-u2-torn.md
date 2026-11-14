@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/dolly-parton-final-song-u2-torn.jpg
+image_alt: A lone microphone and an acoustic guitar on a spotlit stage between dark curtains.
 title: Dolly Parton Got Out of Bed to Sing One Last Song. U2 Put It at the End.
 desk: Culture
 dek: U2's first all-new album in nine years, Carnaval de Luz, closes with "Torn," a duet with Bono that is Dolly Parton's final recording. She wrote it about a love triangle. It became a song about a family at war with itself.

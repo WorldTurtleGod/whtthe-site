@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/twin-trees-syracuse-reopens.jpg
+image_alt: A line of people outside a warmly lit pizzeria at night.
 title: The Pizza Place Was Dead on Sunday. On Friday, Syracuse Brought It Back.
 desk: Culture
 dek: Twin Trees served its last pizza on Nov. 8 after 69 years. Five days later it reopened — because the customers who packed its final night refused to let the story end there.

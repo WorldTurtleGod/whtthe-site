@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/gta-vi-five-days-launch-preload.jpg
+image_alt: A nearly full download bar over a palm-lined city skyline, with a game controller on a couch.
 title: GTA VI Is Five Days Away — and Players Are Already Taking the Week Off
 desk: Games
 dek: The biggest game launch in history lands Thursday, Nov. 19. Pre-loads are live, the download is 212 GB, and an estimated 12.1 million people have already paid for it.

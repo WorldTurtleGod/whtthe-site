@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/openai-disbands-robotics-team-astra.jpg
+image_alt: Robot arms on a covered table under a spotlight, as if packed up after a show.
 title: OpenAI Just Fired Its Robot Team — Because the Chatbot Learned to Drive the Robot
 desk: Tech & AI
 dek: OpenAI disbanded its stand-alone robotics team after a general model beat the best specialized robot brains 74.8 percent to 51 percent — in simulation. The empty conference booth told the story first.

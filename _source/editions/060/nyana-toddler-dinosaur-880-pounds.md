@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/nyana-toddler-dinosaur-880-pounds.jpg
+image_alt: A young long-necked dinosaur standing on a big scale in a prehistoric landscape.
 title: The Toddler Dinosaur That Weighed 880 Pounds
 desk: Science
 dek: Nyana was about three years old, walked on two legs, and already weighed 400 kilograms. Its kind grew up to rule the Earth as the long-necked giants.

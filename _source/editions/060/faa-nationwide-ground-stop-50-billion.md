@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/faa-nationwide-ground-stop-50-billion.jpg
+image_alt: An empty airport gate at sunset, grounded planes outside and a huge pile of cash looming over the terminal.
 title: America Sat Still for Four Hours — and the Bill Arrived the Same Day
 desk: Power
 dek: A telecommunications failure grounded every departing flight in the country on Friday. The White House had asked Congress for $30.1 billion that morning. By nightfall, the ask was $50 billion.

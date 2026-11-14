@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/trashed-panda-raccoon-raises-290k.jpg
+image_alt: A dizzy raccoon beside a jar stuffed with money, spilled bottles and a pet food bowl.
 title: The Drunk Raccoon Paid the Rent: $290,000 for the Shelter That Sobered Him Up
 desk: Strange
 dek: Last year he fell through a liquor store ceiling, drank the inventory, and passed out by the toilet. This week the final tally came in: his face has raised more than fourteen years of donations.

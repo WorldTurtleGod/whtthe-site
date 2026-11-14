@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/mothman-and-the-squonk-get-stamps.jpg
+image_alt: Postage stamps showing Mothman, Bigfoot, a jackalope, a lake serpent and a squonk.
 title: Mothman, Sasquatch and a Weeping Squonk Are Getting Their Own Postage Stamps
 desk: Strange
 dek: The U.S. Postal Service's 2027 lineup includes a Mythical Creatures set of five American cryptids. The least famous of them dissolves into tears when you find it, and the Postal Service calls it "a beloved symbol of anxiety."

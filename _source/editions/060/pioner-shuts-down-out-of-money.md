@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/pioner-shuts-down-out-of-money.jpg
+image_alt: An abandoned snowy outpost at night with an empty wallet in the foreground.
 title: Pioner Ran Out of Money Before It Ran Out of Early Access
 desk: Games
 dek: The Soviet-flavored survival shooter once pitched as a cousin of Stalker and Tarkov is shutting its servers less than a year after launch. Its studio says it simply cannot pay to keep the lights on.

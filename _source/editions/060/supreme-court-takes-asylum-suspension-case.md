@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/supreme-court-takes-asylum-suspension-case.jpg
+image_alt: Scales of justice in front of a columned courthouse, with a border fence and small figures in the distance.
 title: The Supreme Court Will Decide Who Gets to Close the Asylum Door
 desk: Power
 dek: The justices agreed Friday to hear the Trump administration's bid to suspend asylum at the southern border. Underneath the immigration fight sits an older question Madison worried over in 1788: where does a president's power stop and Congress's begin?

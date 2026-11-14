@@ -1,4 +1,6 @@
 ---
+image: /images/stories/060/typhoid-deadliest-complication-is-a-blood-vessel-disease.jpg
+image_alt: A stylized cutaway of blood vessels and cells under attack by bacteria.
 title: Typhoid's Deadliest Wound Was a Blood Vessel Problem All Along
 desk: Science
 dek: For more than a century, doctors could describe how typhoid fever tears the small intestine but not why. A Yale lab that has chased one bacterial toxin for 20 years says it finally has the answer.
