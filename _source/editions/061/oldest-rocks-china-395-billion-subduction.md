@@ -1,4 +1,6 @@
 ---
+image: /images/stories/061/oldest-rocks-china-395-billion-subduction.jpg
+image_alt: Three ancient rock samples sit in front of a cutaway of early Earth's crust bending down into the deep.
 title: The Oldest Rocks in China Say the Earth Started Moving Almost at the Beginning
 desk: Science
 dek: Trondhjemitic gneiss from Hebei province, dated to 3.95 billion years, carries chemistry suggesting its material was buried more than 50 kilometres down — most likely, the authors propose, by an early subduction event. The paper is peer-reviewed in Nature. The plate-tectonics reading is an interpretation, and the authors say so.

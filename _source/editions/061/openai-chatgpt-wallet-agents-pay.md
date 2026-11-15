@@ -1,4 +1,6 @@
 ---
+image: /images/stories/061/openai-chatgpt-wallet-agents-pay.jpg
+image_alt: Hands hold a tablet showing a face scan for a purchase while a stand-in card token passes to a waiting assistant.
 title: OpenAI Just Gave Its AI Agents a Wallet — Yours
 desk: Tech & AI
 dek: ChatGPT Wallet, built with Amex, Mastercard and Visa, lets OpenAI's "dots" agents complete purchases for Pro subscribers in the US. The agent never sees your real card number, every purchase needs a Face ID or fingerprint check — and OpenAI takes no cut, for now.

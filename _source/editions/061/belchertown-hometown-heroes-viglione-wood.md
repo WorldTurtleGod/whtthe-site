@@ -1,4 +1,6 @@
 ---
+image: /images/stories/061/belchertown-hometown-heroes-viglione-wood.jpg
+image_alt: A couple seen from behind places small American flags on veterans' graves in a town cemetery at sunrise.
 title: For 27 Years, They Made Sure No Veteran in Belchertown Is Ever Forgotten
 desk: Culture
 dek: Vincent Viglione and Kathleen Wood — husband and wife, both Air Force Reserve Chief Master Sergeants — were named Belchertown's 2026 Hometown Heroes on Veterans Day. Their work is flags on every grave in six cemeteries, every Memorial Day, for nearly thirty years.

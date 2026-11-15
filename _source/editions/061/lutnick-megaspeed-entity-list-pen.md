@@ -1,4 +1,6 @@
 ---
+image: /images/stories/061/lutnick-megaspeed-entity-list-pen.jpg
+image_alt: Four agency folders sit beside a blank official list with an unused pen resting on it, and a tray of chips waits at the edge of the desk.
 title: Four Agencies Said Blacklist It. One Man Held the Pen.
 desk: Power
 dek: Treasury, State, the Pentagon and the Trade Representative wanted the Nvidia customer suspected of funneling America's best chips to China on the export blacklist for months. Commerce Secretary Howard Lutnick's department never moved — and now the President's own Treasury secretary has said so on television, and Trump's advisers are discussing whether Lutnick keeps his job.

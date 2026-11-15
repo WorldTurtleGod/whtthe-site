@@ -1,4 +1,6 @@
 ---
+image: /images/stories/061/league-of-legends-new-dawn-2027-overhaul.jpg
+image_alt: A weathered fantasy fortress wrapped in scaffolding is being rebuilt stone by stone at dawn.
 title: Seventeen Years In, League of Legends Is Rebuilding Itself — Not Replacing Itself
 desk: Games
 dek: Riot unveiled League of Legends: New Dawn at the Worlds final on Saturday: a modernised client, a refreshed Summoner's Rift, and evolved gameplay, coming in 2027. It is explicitly not League of Legends 2.

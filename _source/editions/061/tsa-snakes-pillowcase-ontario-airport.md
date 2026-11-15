@@ -1,4 +1,6 @@
 ---
+image: /images/stories/061/tsa-snakes-pillowcase-ontario-airport.jpg
+image_alt: A gloved hand pulls back from an open suitcase on an airport screening belt where a coiled snake rises from a pillowcase.
 title: He Packed His Pets in a Pillowcase. One of Them Was a Rattlesnake.
 desk: Strange
 dek: TSA officers at Ontario International Airport thought they were handling a bundle of rope in a checked suitcase. Then it moved. The story was released Nov. 13 — the passenger said the snakes were his pets and he had flown with them before.
