@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/east-potomac-park-stays-open-reyes.jpg
+image_alt: A gavel in front of chain-link gates swung open onto a park path, with fresh tree stumps nearby
 title: The President Announced the Golf Course Would Close Sunday. A Judge Said Show Me the Real Reason.
 desk: Power
 dek: Judge Ana Reyes ordered East Potomac Park in Washington kept open to the public for now, finding the government's safety rationale likely pretextual and its rush to meet a social-media deadline likely unlawful.

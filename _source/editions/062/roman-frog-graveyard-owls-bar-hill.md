@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/roman-frog-graveyard-owls-bar-hill.jpg
+image_alt: An owl perched above an excavated ditch full of tiny frog bones at dusk
 title: 8,000 Frog Bones in One Ditch. The Killer Was Owls.
 desk: Strange
 dek: Archaeologists spent a decade puzzling over a Roman-era ditch at Bar Hill, Cambridgeshire, packed with frog bones. A new peer-reviewed study says a group of owls feasted there one winter — and left the evidence lightly digested.

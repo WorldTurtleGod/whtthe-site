@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/planimal-cells-algae-genome-hamster.jpg
+image_alt: A cutaway animal cell with leafy algae chromosomes tucked in its nucleus and a small hamster silhouette
 title: Scientists Put Almost an Entire Alga's Genome Inside an Animal Cell. The Cell Kept It, and Mostly Kept It Quiet.
 desk: Science
 dek: A University of Tokyo team fused red algae with hamster cells and made "planimal" cells that carried algal chromosomes through 155 generations of division. About 96% of the algal genes stayed switched off.

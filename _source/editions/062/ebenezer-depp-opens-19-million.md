@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/ebenezer-depp-opens-19-million.jpg
+image_alt: A miser in a nightcap at a candlelit desk, three faint ghosts in the doorway and a ticket stub on the desk
 title: Johnny Depp Played Scrooge and Came Out on Top. Not by Much.
 desk: Culture
 dek: Paramount's Ebenezer opened at No. 1 with $19 million in North America, Depp's first major movie role in eight years, just under the $20 million tracking had pointed to.

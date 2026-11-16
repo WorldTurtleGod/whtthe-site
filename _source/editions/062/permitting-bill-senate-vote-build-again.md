@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/permitting-bill-senate-vote-build-again.jpg
+image_alt: Giant shears trimming a thick stack of bill pages, with a power pylon, power plant and wind turbine behind
 title: The Senate Votes Today on Whether America Is Allowed to Build Things Again
 desk: Power
 dek: The bipartisan permitting bill cleared its first hurdle 73–25. Tonight the Senate votes on the Capito substitute itself — and the fight behind it is the rare one where Washington is arguing about how much of its own permission slip to tear up.

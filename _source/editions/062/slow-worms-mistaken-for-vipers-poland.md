@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/slow-worms-mistaken-for-vipers-poland.jpg
+image_alt: Gloved hands reaching into a concrete meter pit where a heap of legless slow-worm lizards sleep
 title: Nineteen "Vipers" in a Water Meter Pit Turned Out to Be Lizards With No Legs and No Way Out
 desk: Strange
 dek: A meter job in southern Poland turned up a heap of what looked like venomous snakes. Rescuers found 19 harmless slow worms that had slid in for the winter and couldn't climb back up.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/voyager-1-one-light-day-november-18.jpg
+image_alt: The Voyager spacecraft in deep space with a thin beam of light stretching back to a tiny distant Earth
 title: Say Hello to Voyager 1 Today. It Will Hear You Tomorrow.
 desk: Science
 dek: On Wednesday, Nov. 18, at 5:16 a.m. Eastern, Voyager 1 becomes the first human-made object a full light-day from home — more than 16 billion miles out, 49 years after launch, still working on two instruments and a dying power supply.

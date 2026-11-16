@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/super-meat-boy-again-plus-without-mcmillen.jpg
+image_alt: A small cube character leaping between spinning saw blades toward a glowing plus-shaped door
 title: Super Meat Boy Is Coming Back "Again+." One of the Two Men Who Made It Says It's All News to Him.
 desk: Games
 dek: Team Meat announced a top-to-bottom remake of its 2010 platformer, with new art, music and a secret "+" it won't explain. Co-creator Edmund McMillen, who left the studio years ago, isn't involved.

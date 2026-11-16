@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/nonprofits-sue-freeze-frontier-ai-november-12.jpg
+image_alt: A judge's gavel and a calendar page in front of server racks frozen under ice
 title: Four Nonprofits Just Asked a Court to Freeze AI at November 12
 desk: Tech & AI
 dek: The 63-page lawsuit against Anthropic, Google, Meta, OpenAI and SpaceX's AI business seeks no money — just an injunction barring any system more capable than the ones that existed last Thursday. Its main evidence is the labs' own warnings.

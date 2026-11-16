@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/ten-west-market-reopens-after-fire-holden.jpg
+image_alt: A country market's owner opening the doors of a rebuilt barn-style shop, with produce crates outside
 title: The Fire Took Her Store. Her Landlord, Her Neighbors and Her Own Two Hands Brought It Back.
 desk: Culture
 dek: Ten West Market, in the Jefferson section of Holden, Massachusetts, burned on Dec. 30, 2025. Today, Nov. 16 — exactly two years after it first opened — Darlene Walsh reopens it, because the people around her refused to let a fire be the end of the story.

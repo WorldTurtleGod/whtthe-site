@@ -1,4 +1,6 @@
 ---
+image: /images/stories/062/xbox-project-helix-console-plays-pc-games.jpg
+image_alt: A sleek game console and controller on a living-room stand, with a small PC tower and monitor beside it
 title: Xbox's Next Console Is a Console That Plays PC Games — Not the Other Way Around
 desk: Games
 dek: In its free 25th Anniversary Magazine, published Nov. 15, Xbox finally defined Project Helix in one sentence — and the sentence is a promise about which machine serves which.
