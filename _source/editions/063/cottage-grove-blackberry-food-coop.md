@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/cottage-grove-blackberry-food-coop.jpg
+image_alt: Neighbors carry produce boxes from a line of loaded cars into a small main-street grocery.
 title: Cottage Grove Refused to Lose Its Grocery — So the Town Bought It Together
 desk: Culture
 dek: An ice storm and an eviction notice nearly killed Coast Fork Farm Stand. Instead, hundreds of neighbors turned it into the Blackberry Food Cooperative — 366 member-owners and counting.

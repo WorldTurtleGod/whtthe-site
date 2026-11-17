@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/baaja-cloture-70-27.jpg
+image_alt: A bound bill on a hand truck at the foot of a stone stairway with three gates, two open and the last still shut, power lines and a data center on the horizon.
 title: 70 to 27: The Senate Just Voted to Stop Debating Whether America Can Build
 desk: Power
 dek: Cloture on the Capito permitting substitute passed Monday night — the second of three 60-vote gates. The survivor-relief bill underneath it was not gutted; it rides on as Division C.

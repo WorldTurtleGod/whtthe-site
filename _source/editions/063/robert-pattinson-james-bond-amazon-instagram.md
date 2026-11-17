@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/robert-pattinson-james-bond-amazon-instagram.jpg
+image_alt: A tuxedo on a dress form, half in shadow, lit by the glow of a smartphone screen.
 title: Robert Pattinson Is James Bond. Amazon Told You on Instagram.
 desk: Culture
 dek: The seventh 007 was unveiled Monday with a ten-second "Identity Confirmed" post, not a London press conference. Denis Villeneuve directs, Steven Knight writes, and the film is due in 2028.

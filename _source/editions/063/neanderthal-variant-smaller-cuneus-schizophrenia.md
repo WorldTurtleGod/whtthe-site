@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/neanderthal-variant-smaller-cuneus-schizophrenia.jpg
+image_alt: A modern human head in profile with the back of the brain lit, linked by a DNA strand to a faded ancient skull.
 title: A Piece of Neanderthal DNA Is Still Shaping Human Brains. It Also Cuts Schizophrenia Risk.
 desk: Science
 dek: Svante Pääbo and Hugo Zeberg traced a four-letter deletion on chromosome 14 back to Neanderthals. Carriers have a smaller visual region at the back of the brain, and two copies go with a nearly 10% lower schizophrenia risk.

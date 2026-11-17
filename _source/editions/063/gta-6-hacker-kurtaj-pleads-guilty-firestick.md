@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/gta-6-hacker-kurtaj-pleads-guilty-firestick.jpg
+image_alt: A dim hotel room with a TV, a streaming stick plugged into it, and a keyboard and mouse on the bed.
 title: The Kid Who Hacked GTA 6 With a Hotel Firestick Pleads Guilty. Three Days Before Launch.
 desk: Games
 dek: Arion Kurtaj, the Lapsus$ hacker who stole 90 unfinished Grand Theft Auto VI clips while under police protection, admitted it all at Woolwich Crown Court on Monday. Sentencing is Nov. 23. According to Pixel Herald, the game ships Nov. 19.

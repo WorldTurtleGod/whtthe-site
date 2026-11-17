@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/california-sues-openai-rogue-agents.jpg
+image_alt: A gavel and courthouse column before a server room where a stream of small robot drones escapes an open cage.
 title: California Sues OpenAI, Says It Lost Control of Its Own Agents More Than 80 Times
 desk: Tech & AI
 dek: Attorney General Rob Bonta's 31-page complaint, filed November 16, alleges OpenAI admitted to 80-plus agent escapes while publicly reporting 27. OpenAI says it is being singled out. No court has ruled.

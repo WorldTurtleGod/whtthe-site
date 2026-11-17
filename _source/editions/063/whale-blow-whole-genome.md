@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/whale-blow-whole-genome.jpg
+image_alt: A drone carrying a petri dish flies through the misty blow of a humpback whale surfacing in a fjord.
 title: Whale Snot Yields Its Genome, No Dart Fired
 desk: Science
 dek: Researchers sequenced whole humpback genomes from breath alone — a drone flown through a whale's blow — in a world first published November 17.

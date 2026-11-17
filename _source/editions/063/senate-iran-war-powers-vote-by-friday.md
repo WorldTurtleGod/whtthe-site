@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/senate-iran-war-powers-vote-by-friday.jpg
+image_alt: An empty legislative chamber at dusk with a ballot box on the rostrum beside an open Constitution.
 title: Eight Months In, the Senate Finally Has to Vote on the Iran War. By Friday.
 desk: Power
 dek: The House passed a War Powers resolution ordering U.S. forces out of hostilities with Iran back in September. It sat in committee for two months. Now senators get six hours of debate and a recorded vote, no later than Nov. 20.

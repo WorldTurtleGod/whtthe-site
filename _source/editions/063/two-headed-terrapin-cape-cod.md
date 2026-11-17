@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/two-headed-terrapin-cape-cod.jpg
+image_alt: A tiny two-headed terrapin hatchling with one shell swims in a shallow clinic tub near gloved hands.
 title: Two Heads, One Shell: Cape Cod's 'Twins' Terrapin Is Still Thriving
 desk: Strange
 dek: The two-headed diamondback terrapin at the Cape Wildlife Center has two personalities, fused spines, and one shared shell — and both heads are eating.

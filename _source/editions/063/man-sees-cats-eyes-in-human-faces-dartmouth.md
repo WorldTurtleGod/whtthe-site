@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/man-sees-cats-eyes-in-human-faces-dartmouth.jpg
+image_alt: A tabby cat on a windowsill while stylized passersby outside show the cat's eyes and faint stripes.
 title: After Brain Surgery, He Sees His Cat in Everyone's Face. Sometimes It Goes the Other Way.
 desk: Strange
 dek: A 28-year-old named Karl sees his gray tabby Luna's eyes and stripes on the people he meets, if Luna is the first face he sees that day. Dartmouth researchers used AI images to show what he sees.

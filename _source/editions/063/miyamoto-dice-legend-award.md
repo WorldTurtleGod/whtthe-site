@@ -1,4 +1,6 @@
 ---
+image: /images/stories/063/miyamoto-dice-legend-award.jpg
+image_alt: A lone trophy under a spotlight on a dark stage, with a small arcade cabinet and a sketchbook at its base.
 title: Miyamoto Gets the Honor Gaming Hands Out Once a Decade
 desk: Games
 dek: The Academy of Interactive Arts & Sciences named Nintendo's Shigeru Miyamoto the first-ever D.I.C.E. Legend — an award it will give no more than once per decade.
