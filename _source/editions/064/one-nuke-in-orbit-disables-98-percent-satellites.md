@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/one-nuke-in-orbit-disables-98-percent-satellites.jpg
+image_alt: A faint glowing radiation band wraps Earth as satellites passing through it go dark and tumble.
 title: One Nuke in Orbit Could Knock Out 98% of Satellites in a Week. America Already Ran the Test Once.
 desk: Science
 dek: Researchers at Wisconsin and Princeton modeled a single 1-megaton blast 500 kilometers over the South Atlantic. The radiation belt it leaves behind does most of the damage. The study has not yet been peer reviewed.

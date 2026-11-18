@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/omar-search-warrant-records-unsealed-november-23.jpg
+image_alt: A courtroom bench with a gavel, a thick taped folder still sealed, and redacted pages beneath it.
 title: Agents Searched a Sitting Congresswoman's Home. As Soon as Monday, the Public Sees Some of the Paperwork.
 desk: Power
 dek: Chief Judge James Boasberg ordered redacted records from the Oct. 12 search of Rep. Ilhan Omar's D.C. home posted as soon as Nov. 23. The 67-page affidavit stays sealed. He also noted that the President and Vice President have already talked about the case.

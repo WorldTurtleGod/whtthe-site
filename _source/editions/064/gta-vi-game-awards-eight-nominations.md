@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/gta-vi-game-awards-eight-nominations.jpg
+image_alt: An award trophy under a spotlight beside a still-sealed game package, with a night queue waiting outside a glass door.
 title: GTA VI Has 8 Award Nominations. It Comes Out Tomorrow.
 desk: Games
 dek: The Game Awards named its 2026 nominees on November 17 — six up for Game of the Year after a jury tie — and Rockstar's game, which launches November 19, leads the entire field before a single paying customer has played it.

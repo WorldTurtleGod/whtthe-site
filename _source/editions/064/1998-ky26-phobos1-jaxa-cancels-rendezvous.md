@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/1998-ky26-phobos1-jaxa-cancels-rendezvous.jpg
+image_alt: A small, shiny spinning object tumbles through space as a distant spacecraft drifts away on another course.
 title: The Shiny Object Won't Sit Still — and the Spacecraft Sent to Meet It Just Lost Its Engines
 desk: Strange
 dek: 1998 KY26 is 11 metres across, spins every five minutes, reflects half the sunlight that hits it, and accelerates in a way gravity alone can't explain. Avi Loeb says it's the lost Soviet probe Phobos 1. The ice says otherwise — and on November 17, JAXA cancelled the 2031 rendezvous that might have settled it.

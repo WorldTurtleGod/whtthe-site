@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/microsoft-seven-mai-models-ignite.jpg
+image_alt: Seven glowing crystal cores on a server shelf as a hand receives a heavy key in front of a private server vault.
 title: Microsoft Stopped Renting Its Brain and Built Seven of Its Own
 desk: Tech & AI
 dek: At Ignite on November 17, Microsoft launched seven first-party MAI models, put its flagship coder inside GitHub Copilot the same day, and offered trusted customers the actual model weights. Every performance number in the pitch is Microsoft's own — read them that way.

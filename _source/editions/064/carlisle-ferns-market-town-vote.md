@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/carlisle-ferns-market-town-vote.jpg
+image_alt: Residents raise voting cards in a packed town-meeting hall while a dark, closed general store sits across the street.
 title: A Town With No Grocery Store Voted, Late Into the Night, to Bring Its Store Back
 desk: Culture
 dek: Carlisle, Massachusetts, has no grocery store and no coffee shop since Ferns Market closed in May 2025. On November 16 a record town-meeting turnout approved the engineering money to fix the wastewater problem that killed it — while a couple who still don't own the place have $100,000 of their own money in.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/cliff-booth-reactions-regal-cinemark-imax-snub.jpg
+image_alt: A retro movie palace with one packed, lit premium screen while neighboring theater doors are chained shut under dark marquees.
 title: Critics Love the New Cliff Booth Movie. Two Big Theater Chains Still Won't Show It.
 desk: Culture
 dek: First reactions to Fincher and Tarantino's "Once Upon a Time in Hollywood" sequel call it a "triumph." Netflix opens it only in IMAX on Nov. 25, according to Variety (Deadline reports Nov. 29), and streams it Dec. 23. Regal and Cinemark said no.

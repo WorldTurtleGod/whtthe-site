@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/baaja-wednesday-votes-section-106.jpg
+image_alt: A stone stairway ends at a tall closed gate where a bound bill waits on a hand truck, beside a circle of standing stones and an earthen mound.
 title: The Permitting Bill Gets Its Votes Today — and Its Authors Were Still Rewriting It Last Night
 desk: Power
 dek: Post-cloture time on the Capito substitute expires at about 11:45 a.m. ET Wednesday. Up to three roll calls follow — and none of them is final passage. On Tuesday the bill's four authors filed one more amendment, aimed at the tribal provisions tribes say still gut their say.

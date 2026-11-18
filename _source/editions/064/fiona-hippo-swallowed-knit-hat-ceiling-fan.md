@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/fiona-hippo-swallowed-knit-hat-ceiling-fan.jpg
+image_alt: A ceiling fan flings a pom-pom knit hat over a tall viewing window toward a round-eyed hippo in the water.
 title: A Ceiling Fan Launched a Kid's Hat Into Fiona's Habitat. The Hippo Ate It.
 desk: Strange
 dek: Cincinnati's famous hippo is off exhibit under 24-hour care. Surgery isn't an option, a 9-foot scope couldn't reach the hat, and the zoo says she has to pass it on her own.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/nvidia-115-billion-quarter-export-rule-trump-trades.jpg
+image_alt: A tower of AI chips rising like a bar chart, chained at its base to a rubber stamp and license forms, with a stock-ticker portfolio nearby.
 title: Nvidia Doubled Its Sales and Says Huang Isn't Coming Back. Washington Still Holds the Leash.
 desk: Tech & AI
 dek: The chipmaker reported $115.8 billion in quarterly revenue, raised next year's forecast and said the board won't bring Huang back. A day earlier, Commerce put new license rules on AI chips headed to Thailand, Singapore and three other countries. And the President's accounts have been trading the stock.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/064/dark-magic-mushroom-galerina-indica.jpg
+image_alt: Tiny brown mushrooms grow from a mossy palm trunk in a misty swamp, one stem bruised dark where it was touched.
 title: The Dark Magic Mushroom Makes the Trip and the Poison in the Same Tiny Body
 desk: Science
 dek: A Florida fungus smaller than a thumbnail is the first mushroom known to produce both psilocybin and amatoxins — the psychedelic and the death-cap poison family — and its genome says it stole the recipe sideways from another fungus.
