@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/homo-erectus-rainforest-china-180000-years.jpg
+image_alt: An early human in silhouette with a stone tool at the edge of a dark rainforest by a limestone cave, fossil teeth on the floor.
 title: Homo Erectus Wasn't Supposed to Survive in a Rainforest. It Did, for a Very Long Time.
 desk: Science
 dek: Nine fossil teeth from two caves in southern China show the ancient human lived in dense jungle as recently as about 184,000 years ago, some 200,000 years later than any securely dated mainland fossil.

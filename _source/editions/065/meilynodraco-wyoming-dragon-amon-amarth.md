@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/meilynodraco-wyoming-dragon-amon-amarth.jpg
+image_alt: A small horned reptile, half fossil scan in sandstone and half living reconstruction, with a volcano on the horizon.
 title: Neutrons, Death Metal and a Tiny Prehistoric Dragon From Wyoming
 desk: Strange
 dek: A 156-million-year-old fossil nobody could identify — baby dinosaur? snake? — turned out to be a 45-centimetre reptile with dragon-like horns and a skull hidden inside sandstone. Its name honours Swedish death metal band Amon Amarth, by way of Tolkien.

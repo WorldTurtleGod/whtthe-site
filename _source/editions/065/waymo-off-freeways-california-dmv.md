@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/waymo-off-freeways-california-dmv.jpg
+image_alt: A driverless robotaxi stopped by striped barricades at a freeway on-ramp, while the same kind of car rolls along a city street below.
 title: California Kicked Waymo Off the Freeway. Waymo Pulled Out of Every Other State's, Too.
 desk: Tech & AI
 dek: The state DMV called Waymo's driverless freeway rides an "imminent hazard" after robotaxis drove into a construction closure and tried to pass a CHP traffic break. Waymo then paused freeway rides nationwide.

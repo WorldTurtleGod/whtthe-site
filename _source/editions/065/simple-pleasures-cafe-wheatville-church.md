@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/simple-pleasures-cafe-wheatville-church.jpg
+image_alt: Inside a small country church turned cafe, with a tin ceiling, a griddle counter, easy chairs and a new wooden ramp at the door.
 title: A Welder and a Sales Worker Spent Three Years Turning a Closed Church Into Their Own Café
 desk: Culture
 dek: Gordon Linsey welded for 30 years; Denise Linsey worked sales for 20. They bought Wheatville's shuttered St. Patrick's Church in 2013, lost their gift shop to COVID, thought about selling — and instead rebuilt the place by hand into Simple Pleasures Café, which opened August 3. The profile of it only reached print this week.

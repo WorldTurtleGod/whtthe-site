@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/gta-vi-launch-99-estimate-not-sales.jpg
+image_alt: A glowing game box on a pedestal beside a heavy score seal, with a see-through outline of coins above a blank register tape.
 title: GTA VI Launches to a 99 — and an Estimate, Not a Sales Number
 desk: Games
 dek: Thirteen years after GTA V, Vice City opened at midnight local time worldwide on November 19. Critics tied the highest Metacritic score ever recorded. The $1.65 billion figure going around is a tracker's estimate of pre-launch sales — Rockstar has published no sales number yet.

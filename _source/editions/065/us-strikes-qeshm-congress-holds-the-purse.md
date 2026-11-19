@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/us-strikes-qeshm-congress-holds-the-purse.jpg
+image_alt: A rocky island in a strait with flashes on shore at night, beside a leather purse on a marble-chamber desk with hands hovering over its clasp.
 title: America Bombed an Iranian Island Tuesday. Congress Holds the Purse and Can't Decide Whether to Use It.
 desk: Power
 dek: U.S. jets hit a missile site on Qeshm Island, Iran answered with drones at Kuwait and Bahrain, and Senate Democrats are split over whether ending the war is worth a December shutdown fight.

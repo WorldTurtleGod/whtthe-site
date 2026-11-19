@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/outage-thread-upgrade-not-attacker.jpg
+image_alt: A gloved hand swaps an old router for a new one as screens go dark down a row of linked machines.
 title: The Thread Wasn't an Attacker. It Was the Upgrade.
 desk: Tech & AI
 dek: What connects a week of systems going down? The documented answer: no coordinated attacker in the record — almost every failure traces to somebody changing a live, old, interconnected system. The FAA still has no root cause, its new routers are now disabled, and the fix is priced at $50.1 billion. The NSA still hasn't explained its outage.

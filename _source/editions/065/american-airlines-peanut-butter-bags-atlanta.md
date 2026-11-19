@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/american-airlines-peanut-butter-bags-atlanta.jpg
+image_alt: Suitcases smeared with brown paste ride an airport baggage carousel as travelers seen from behind recoil.
 title: The Bags Came Out Covered in Something Brown. The Airline Says It Was Peanut Butter.
 desk: Strange
 dek: Passengers on American Airlines Flight 2609 waited more than two hours at Atlanta's baggage claim, then found dozens of suitcases smeared with what they feared was human waste.

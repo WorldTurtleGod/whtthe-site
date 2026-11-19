@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/ella-langley-sweeps-cmas-swift-shut-out.jpg
+image_alt: A country singer seen from behind on a spotlit stage, holding an armful of award trophies before a packed arena.
 title: Ella Langley Went Six for Six at the CMAs. Taylor Swift Went Home Empty-Handed.
 desk: Culture
 dek: The 60th CMA Awards in Nashville belonged to "Choosin' Texas." Langley won entertainer of the year on her first try, and her song beat Swift's return to the country field.

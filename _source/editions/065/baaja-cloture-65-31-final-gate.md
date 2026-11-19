@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/baaja-cloture-65-31-final-gate.jpg
+image_alt: Past the last open gate on a stone stairway, a bound bill waits on a hand truck before a plain closed door, beside a stone circle and grassy mound.
 title: 65 to 31: The Permitting Bill Cleared Its Last 60-Vote Gate — and Lost Ground Doing It
 desk: Power
 dek: Wednesday's three votes are now all in the official record: budget waiver 70–26, the Capito substitute adopted 69–27, cloture on the bill itself invoked 65–31. Every supermajority gate is cleared. Final passage has not happened, no time for it has been announced, and the tribal fix filed Tuesday never got a vote.

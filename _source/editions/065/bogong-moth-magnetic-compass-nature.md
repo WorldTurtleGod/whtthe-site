@@ -1,4 +1,6 @@
 ---
+image: /images/stories/065/bogong-moth-magnetic-compass-nature.jpg
+image_alt: A brown moth flies at night over mountain ridges along faint curved magnetic field lines, toward a distant cave.
 title: A Moth With a Brain a Tenth the Size of a Rice Grain Flies 1,000 Kilometres by Earth's Magnetic Field
 desk: Science
 dek: Australia's Bogong moth already knew how to steer by the Milky Way. A Nature study published November 18 shows it has a second, independent compass — the tilt of Earth's magnetic field, the same trick night-migrating songbirds use — and loses its way when that field is cancelled, flipped, or stripped of violet-blue light.
