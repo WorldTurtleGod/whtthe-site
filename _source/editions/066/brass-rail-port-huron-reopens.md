@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/brass-rail-port-huron-reopens.jpg
+image_alt: "Seen through a front window at night, patrons crowd a small-town bar with a long brass rail."
 title: A Bar That Was "Helen's Living Room" Came Home to Family — and a Packed Room
 desk: Culture
 dek: The Brass Rail in Port Huron, Michigan, founded in 1937 when Helen David turned her family's ice cream parlor into a bar, reopened Wednesday after nearly a year of renovations — bought back into family ownership, restored by hand, and full fifteen minutes after the doors opened.

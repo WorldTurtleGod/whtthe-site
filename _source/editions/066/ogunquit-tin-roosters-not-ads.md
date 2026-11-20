@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/ogunquit-tin-roosters-not-ads.jpg
+image_alt: "Large tin rooster sculptures stand in the front yard of a coastal Maine house."
 title: A Maine Town Fined a Family $1,700 Over Tin Roosters. It Says They're Ads.
 desk: Strange
 dek: Dave and Sara LeBlanc put six-foot tin roosters on their lawn to comfort their autistic daughter. Ogunquit ruled the birds were illegal signs for the family's breakfast restaurant. Now the family is suing in federal court.

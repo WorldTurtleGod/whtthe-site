@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/national-book-award-elgendy-no-visa.jpg
+image_alt: "A woman on an awards stage raises a lit trophy beside an empty chair, with a passport near a closed iron gate."
 title: He Won the National Book Award. America Wouldn't Let Him In to Pick It Up.
 desk: Culture
 dek: Abdelrahman ElGendy's memoir of six years as a political prisoner in Egypt took the nonfiction prize Wednesday night in New York. His editor accepted it, because the U.S. denied his visa.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/baaja-passes-senate-62-33.jpg
+image_alt: "A bill crosses a bridge past an open stone gate toward a second, fog-lit climb to a distant keep, with an hourglass in late light."
 title: 62 to 33: The Permitting Bill Passed the Senate — Softer at Every Step, and Through Anyway
 desk: Power
 dek: Vote 270 is in the official record: H.R. 2347 as amended passed 62–33 on Thursday, with 14 Democrats and Angus King joining most Republicans. Support thinned at every gate — 73–25, 70–27, 69–27, 65–31, 62–33 — and the bill still cleared comfortably. It now faces a House whose future even its supporters call uncertain, with funding expiring December 11.

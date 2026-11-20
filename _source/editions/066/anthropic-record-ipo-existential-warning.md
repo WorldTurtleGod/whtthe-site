@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/anthropic-record-ipo-existential-warning.jpg
+image_alt: "A stock exchange bell rings over towering stacks of coins and confetti, beside an open prospectus with a globe on its page."
 title: The Biggest IPO in History Carried a Warning About the End of the World
 desk: Tech & AI
 dek: Anthropic priced above its range, sold 980 million shares at $83, and raised a record $81 billion on Thursday at a $1.5 trillion valuation — while its own prospectus warned of "catastrophic or existential risks to humanity," and its CEO used the Nasdaq podium to promise he would not bend.

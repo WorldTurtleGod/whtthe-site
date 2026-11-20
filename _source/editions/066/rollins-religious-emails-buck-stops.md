@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/rollins-religious-emails-buck-stops.jpg
+image_alt: "A judge's gavel rests on a pile of envelopes in front of rows of office computer screens."
 title: The Agriculture Secretary Sent Sermons to Her Whole Department. A Judge Told Her to Stop.
 desk: Power
 dek: A federal judge in San Francisco ruled that Brooke Rollins' Christmas and Easter emails to USDA's workforce likely crossed the First Amendment line, and ordered her to follow the same rules she wrote for everyone else.

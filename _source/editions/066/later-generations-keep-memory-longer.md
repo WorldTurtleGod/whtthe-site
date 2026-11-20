@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/later-generations-keep-memory-longer.jpg
+image_alt: "Three people of different generations sit together on a park bench under autumn trees."
 title: Your Grandparents Forgot Faster. A Study of 219,000 People Says Your Memory Will Last Longer.
 desk: Science
 dek: People born later in the 20th century reach old age with sharper memories and lose them more slowly, according to a Nature Medicine study led from Oslo. The gain may be big enough to explain why dementia rates have been falling for decades.

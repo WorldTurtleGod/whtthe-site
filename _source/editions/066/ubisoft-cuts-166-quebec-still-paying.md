@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/ubisoft-cuts-166-quebec-still-paying.jpg
+image_alt: "Workers carry boxes out of a game studio office while a sack of coins hangs outside by a government building."
 title: Ubisoft Cut 166 Jobs in Quebec. Quebec Is Still Paying It to Grow.
 desk: Games
 dek: The French publisher laid off 128 people in Montreal and 38 in Quebec City on GTA VI launch day. This summer the province agreed to hand it C$25.7 million more, on the promise of hundreds of new jobs.

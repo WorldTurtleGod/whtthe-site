@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/isaac-repentance-plus-console-launch.jpg
+image_alt: "Two players with controllers on a couch in front of a game screen, a game case and booklet on the table."
 title: Isaac Finally Goes Online — and Switch 2 Gets a Real Cartridge
 desk: Games
 dek: The Binding of Isaac: Repentance+ launched November 19 on Switch 2, PS5 and Xbox Series X|S with four-player online co-op in every mode, a $9.99 upgrade for owners — and a physical Switch 2 edition that is the whole game on a cartridge, not a Game-Key Card. What it doesn't have yet: crossplay.

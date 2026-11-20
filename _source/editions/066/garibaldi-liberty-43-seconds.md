@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/garibaldi-liberty-43-seconds.jpg
+image_alt: "A painter holds up a canvas of the Statue of Liberty before a cheering crowd, with a stopwatch on a table nearby."
 title: Lady Liberty, Painted Upside-Down in 43.5 Seconds
 desk: Strange
 dek: On Guinness World Records Day, Sacramento performance painter David Garibaldi stood on the Brooklyn waterfront, swept green and blue streaks into an abstract blur, flipped the canvas — and there was the Statue of Liberty's face. Fastest time to paint a landmark statue: 43.5 seconds. His first world record.

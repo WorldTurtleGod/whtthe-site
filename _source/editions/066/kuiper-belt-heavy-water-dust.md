@@ -1,4 +1,6 @@
 ---
+image: /images/stories/066/kuiper-belt-heavy-water-dust.jpg
+image_alt: "A jet flies high above Earth beside a magnified grain of layered space dust."
 title: Twelve Grains of Dust, Caught in the Stratosphere, Point to an Ancient Ocean Beyond Neptune
 desk: Science
 dek: NASA and UCLA researchers studied 12 dust particles, each smaller than a grain of sand's shadow, collected by an ER-2 aircraft high above Earth. Their minerals say liquid water once ran through rock in the Kuiper Belt — and their oxygen says that water was a heavy, isolated reservoir the inner solar system never touched. Published in Science Advances, announced November 18.
