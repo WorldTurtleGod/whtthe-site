@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/belmont-cafe-waymart-reopening.jpg
+image_alt: "People carry supplies into a small-town café at dusk as its lights come back on."
 title: A Car Through the Window, a Town Through the Door: The Belmont Café Plans to Reopen Tuesday
 desk: Culture
 dek: On Halloween, a car rammed the front window of Dawn and Joe Lepkowski's Belmont Café in Waymart, Pennsylvania, fifteen minutes before the trick-or-treaters came out. Nobody was seriously hurt. The town was at the café before the owner was — and she split the donations with the staff the closure put out of work. Reopening is planned for 6 a.m. Tuesday, November 24.

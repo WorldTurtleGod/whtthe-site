@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/man-o-war-san-diego-beaches.jpg
+image_alt: "Translucent man o' war with trailing tentacles wash up on a rocky beach near a person's sneakers."
 title: Sail-Like, Stinging, and Very Rare: Portuguese Man O' War Wash Up on San Diego Beaches
 desk: Strange
 dek: They look like jellyfish, sail like little warships, sting like a warning label — and they almost never show up in Southern California. Scripps announced Thursday that Portuguese man o' war had stranded at Cabrillo National Monument, Del Mar and La Jolla, likely riding warmer El Niño waters. Do not touch, even stranded.

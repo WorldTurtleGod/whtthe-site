@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/trump-tremendous-tax-data-centers-abroad.jpg
+image_alt: "A giant stamp comes down on data centers spread across a world map, beside a podium, a scroll and a quill near a capitol building."
 title: Trump Says He'll Tax Companies That Build Data Centers Overseas. The Constitution Gave That Power to Congress.
 desk: Power
 dek: The president threatened a "tremendous tax" on U.S. firms that put AI data centers in other countries, an idea he said he hadn't yet told his own staff. He named no rate, no law and no timeline.

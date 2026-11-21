@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/owl-stuck-truck-air-dam-70-miles.jpg
+image_alt: "A mechanic kneels at the front of a parked tractor-trailer at night where an owl is wedged in the bumper."
 title: An Owl Hit a Tractor-Trailer at 65 MPH. It Rode the Rest of the Way Stuck in the Bumper.
 desk: Strange
 dek: A great horned owl wedged headfirst in a freight truck's air dam survived the trip to a Pennsylvania terminal with only an injured eye. How far it rode depends on who you ask.

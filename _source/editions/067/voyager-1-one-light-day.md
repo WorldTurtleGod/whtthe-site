@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/voyager-1-one-light-day.jpg
+image_alt: "A tiny space probe far across a starfield, linked to a dish on Earth by a thin signal line."
 title: A Signal From One Light-Day Away: Voyager 1's Call Took a Full Day to Reach Earth
 desk: Science
 dek: NASA confirmed Thursday that Voyager 1 — launched in 1977, traveling at 38,000 mph — has become the first human-made object one light-day from Earth: 16.1 billion miles, so far that its signal, moving at light speed, took 24 hours to arrive. The milestone was confirmed by the carrier tone, because the probe has sent no science or engineering data since November 14.

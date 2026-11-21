@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/eo-14438-contractors-notify-white-house.jpg
+image_alt: "Contractors with briefcases line a marble hall leading to a checkpoint desk where envelopes are stamped, beside scissors resting on a contract."
 title: Before You Answer Congress, Tell the White House: Trump's New Order for Every Federal Contractor
 desk: Power
 dek: Executive Order 14438, signed late Friday, requires every federal contractor and subcontractor to notify the White House of any congressional request for their communications or work — and to follow White House instructions on withholding what the White House calls privileged. Refuse, and the contract itself is on the table.

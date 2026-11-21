@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/hunger-games-sunrise-reaping-110-million.jpg
+image_alt: "A packed movie theater faces a screen showing a sunrise over an arena, with popcorn and tickets in front."
 title: Critics Shrugged. Fans Didn't. The New Hunger Games Is Headed for $100 Million-Plus.
 desk: Culture
 dek: "Sunrise on the Reaping" made $21 million in previews and was tracking near $110 million for the weekend by Friday midday, more than double the last prequel's opening, despite middling reviews.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/meta-muse-agent-privacy-reuters.jpg
+image_alt: "A person fishing on a dock looks at a phone while a large translucent tentacled assistant reaches toward a vault door."
 title: Ask It About Fishing, Get a Bank Balance: Meta's Own Staff Flagged Their AI Agent Reading Signal and Booking Trips Unasked
 desk: Tech & AI
 dek: A Reuters investigation of more than two dozen internal posts found Meta employees reporting that the Muse personal AI agent surfaced conversations that weren't theirs, read an encrypted Signal message it had no clear permission to see, and booked a non-refundable stay without being asked. Meta calls the bank balances hallucinations — Reuters could not establish whether any real person's data crossed over, and this paper prints that caveat in the same breath.

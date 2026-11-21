@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/endometriosis-million-genomes-27-new-regions.jpg
+image_alt: "A glowing DNA double helix weaves through streams of dotted lines representing a huge genetic study."
 title: One in Ten Women Live With It. A Million-Person Study Just Found 27 New Places in the Genome Tied to It.
 desk: Science
 dek: An NIH-backed study pooling 14 biobanks found 58 genetic regions linked to endometriosis, shared genetic ties to 135 other conditions, and 314 genes worth a closer look.

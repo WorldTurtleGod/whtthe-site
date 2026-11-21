@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/riemann-hypothesis-claude-lean-proof-checks.jpg
+image_alt: "Robotic arms stack blocks in a dark room around a straight column of glowing dots."
 title: An Anthropic Mathematician Says He and Claude Proved the Riemann Hypothesis. The Computers Checking It Agree So Far.
 desk: Tech & AI
 dek: Levent Alpöge posted a machine-checkable proof of math's most famous open problem a day after Anthropic's IPO. Independent checks at MIT have passed, but the final run and human acceptance are still to come.

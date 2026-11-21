@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/shutdown-ten-days-back-pay-law-vs-opm.jpg
+image_alt: "An empty legislative chamber behind a law book, an envelope and a pay document on a desk, with a calendar on the wall."
 title: Congress Left Town With 10 Working Days Before a Shutdown. The Law Says Furloughed Workers Get Back Pay, but Trump's OPM Says Congress Decides.
 desk: Power
 dek: Lawmakers scattered for Thanksgiving Friday with no funding plan, while Senate Democrats pushed Iran war limits. A 2019 law says furloughed workers "shall be paid," but OPM's current guidance says that's up to Congress, and Congress has settled it bill by bill.

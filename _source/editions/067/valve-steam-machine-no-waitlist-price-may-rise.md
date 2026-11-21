@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/valve-steam-machine-no-waitlist-price-may-rise.jpg
+image_alt: "Plain cube-shaped consoles on display, with a staircase of chips lifting a price tag above them."
 title: You Can Finally Just Buy a Steam Machine. Valve Can't Promise What the Next One Will Cost.
 desk: Games
 dek: Valve cleared its 512GB reservation line and opened direct sales, then closed the 2TB waitlist and warned that memory and storage prices are climbing "at unprecedented levels."

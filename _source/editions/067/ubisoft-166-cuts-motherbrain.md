@@ -1,4 +1,6 @@
 ---
+image: /images/stories/067/ubisoft-166-cuts-motherbrain.jpg
+image_alt: "An empty game studio at dusk, with packed boxes on the desks under a big screen showing a sailing ship."
 title: 166 More Gone at Ubisoft — on the Day Its Hit Remake Beat Expectations and Its AI Studio Got a Name
 desk: Games
 dek: Ubisoft cut 166 staff at its Montréal and Québec City Assassin's Creed studios on Thursday, the same day its earnings credited Assassin's Creed Black Flag Resynced with beating expectations — and the same day it spun up Motherbrain, a dedicated generative-AI subsidiary. Headcount is down close to 1,100 in six months.
