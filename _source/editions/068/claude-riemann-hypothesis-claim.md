@@ -1,4 +1,6 @@
 ---
+image: /images/stories/068/claude-riemann-hypothesis-claim.jpg
+image_alt: "A person with a lantern studies a towering wall of stacked tiles beside a pedestal holding a dusty prize."
 title: Claude and a Mathematician Claim the Riemann Hypothesis. The Code Checks. The Prize Hasn't Moved.
 desk: Tech & AI
 dek: On Friday, Anthropic mathematician Levent Alpöge announced he and Claude had proved the Riemann hypothesis, posed in 1859 — releasing the argument as Lean code, not a paper. On Saturday, independent researchers said they had recompiled and certified it. The Clay Mathematics Institute still lists the problem as unsolved, and this paper prints all three facts in the same breath.

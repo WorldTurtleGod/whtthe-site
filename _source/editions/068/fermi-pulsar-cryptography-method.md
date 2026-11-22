@@ -1,4 +1,6 @@
 ---
+image: /images/stories/068/fermi-pulsar-cryptography-method.jpg
+image_alt: "A space telescope above Earth scans a grid of stars toward a bright pulsar, beside an hourglass and a tall stack of pages."
 title: Code-Breaking Math Found a Spinning Dead Star in 10 Hours. The Old Way Needed 600 Years — and Still Missed It.
 desk: Science
 dek: A peer-reviewed paper published Thursday in Physical Review Letters borrowed lattice algorithms from post-quantum cryptography to find gamma-ray pulsar PSR J1622−7204 — spinning 261 times per second — in 15 years of public NASA Fermi data in about 10 hours of computing. The previous best method failed despite the equivalent of 600 years. One new pulsar so far; the method is the breakthrough.

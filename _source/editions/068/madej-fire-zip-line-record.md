@@ -1,4 +1,6 @@
 ---
+image: /images/stories/068/madej-fire-zip-line-record.jpg
+image_alt: "A man wrapped in flames rides a zip line over a city courtyard as firefighters watch from below."
 title: He Set Himself on Fire and Rode a Zip Line 568 Feet. The Record Book Says It Counts.
 desk: Strange
 dek: Polish stuntman Stanisław Madej, 43, performed the farthest distance full body burn on a zip wire — 173.3 meters, longer than an American football field — in Łódź on October 3, more than doubling the 2023 record. Guinness published the record Friday. Face exposed, gel only, hoses standing by. Do not try this at home; he very much did not improvise it.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/068/gta-vi-record-launch-30fps.jpg
+image_alt: "A player on a couch faces a TV showing a sunny coastal city, with a pile of gold coins and cash on the floor and a game box on the table."
 title: $3.79 Billion in a Day, 30 Frames on the Couch: GTA VI's Record Launch Meets Its Players
 desk: Games
 dek: Grand Theft Auto VI launched November 19, and Take-Two announced an estimated $3.79 billion in day-one retail sales with 32.5 million units sold pre-release — led with dollars and units, not "reach." Critics gave it a 99. Players got a locked 30fps target, launch bugs, and a review-bomb war that owner-only ratings contradict. Both halves are the story.

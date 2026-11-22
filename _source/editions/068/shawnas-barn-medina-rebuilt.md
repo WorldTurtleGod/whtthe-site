@@ -1,4 +1,6 @@
 ---
+image: /images/stories/068/shawnas-barn-medina-rebuilt.jpg
+image_alt: "Townspeople carry boards through the snow toward a rebuilt, glowing barn shop, past a scorched patch where the old one burned."
 title: The Fire Took Three Barns. The Town Built the Christmas Shop Back.
 desk: Culture
 dek: In August 2025, fire destroyed three barns at Shawna and Chris Baldwin's home in Medina, New York — including the Christmas shop and years of handmade stock. Two wooden angels survived. This month the shop is open again, rebuilt with help from the local Amish community, her church, friends and family.

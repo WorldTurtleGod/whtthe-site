@@ -1,4 +1,6 @@
 ---
+image: /images/stories/068/fifth-circuit-proxy-quorum-ruling.jpg
+image_alt: "Paper cutout stand-ins fill the seats of an empty legislative chamber, with a huge stack of bill pages in the aisle and one thin slice set aside."
 title: The House Passed a $1.7 Trillion Law Without a Quorum, the Fifth Circuit Says
 desk: Power
 dek: On Friday, the en banc Fifth Circuit ruled 9–8 that the House violated the Constitution's Quorum Clause when it passed the Consolidated Appropriations Act of 2023 by counting 226 proxy-recorded members toward a quorum. The judgment itself is narrow — one pregnancy-workers provision, unenforceable against Texas — but the reasoning points at everything else in that omnibus.
