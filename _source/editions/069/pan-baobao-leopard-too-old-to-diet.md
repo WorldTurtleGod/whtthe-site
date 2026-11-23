@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/pan-baobao-leopard-too-old-to-diet.jpg
+image_alt: "A very round, contented leopard lounging on a sunny rock beside a ball, a plate of meat and an unused bathroom scale, as a keeper's hand holds a clipboard"
 title: China's Famous Chubby Leopard Is 19. His Zoo Says He's Done Dieting.
 desk: Strange
 dek: Pan Baobao went viral for his belly, lost the weight, and now looks round again. Keepers at Panzhihua Zoo say at his age the goal is health, not a slimmer figure, and he gets more than a pound of beef a day.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/kennedy-thune-350-billion-defense-reconciliation.jpg
+image_alt: "A figure pushing a cart of missiles and drones down a marble Senate corridor, its wheels frozen in ice, beside a wall calendar and a hanging key"
 title: A Senator Wants 42% More for the Pentagon Before Jan. 3. His Own Leader Put It on Ice.
 desk: Power
 dek: On Meet the Press, Sen. John Kennedy said he has spent 16 months failing to get Majority Leader John Thune to move a party-line, $350 billion defense bill. Thune and the Budget chairman told NBC the effort is shelved.

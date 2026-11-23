@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/hippocampal-ripples-visual-memory.jpg
+image_alt: "Profile of a head with a glowing seahorse-shaped curl inside, ripples spreading toward a framed picture of a house, and a clock on the wall"
 title: Your Brain Replays the Picture to Remember It — in Bursts That Ramp Up for Seven Seconds
 desk: Science
 dek: A study published in eLife on November 20 recorded directly from inside the brains of 13 neurosurgical patients holding images in mind. Hippocampal "ripples" — brief high-frequency bursts long tied to sleep and long-term memory — ramped up across the seven-second wait, but only on trials people got right. One reviewer calls the evidence compelling; another calls it weak. Both are in print.

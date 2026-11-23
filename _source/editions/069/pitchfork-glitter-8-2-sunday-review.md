@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/pitchfork-glitter-8-2-sunday-review.jpg
+image_alt: "A hand lifting a sparkly vinyl record out of a bargain bin in a beam of light, near an old cinema marquee and tomatoes on the ground"
 title: Glitter Came Out on 9/11 and Became a Punchline. Pitchfork Just Gave It an 8.2.
 desk: Culture
 dek: Twenty-five years after critics buried Mariah Carey's soundtrack along with the movie, Pitchfork's Sunday Review says the movie is bad and the album is "very good. At times, it's great."

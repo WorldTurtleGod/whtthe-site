@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/istanbul-lion-search.jpg
+image_alt: "Searchers with flashlights in a dark forest outside a city while a glowing heat-camera lioness silhouette stands among the trees"
 title: Something Resembling a Lion Is Loose in Istanbul's Woods, and the Thermal Cameras Keep Losing It
 desk: Strange
 dek: On Sunday night, surveillance cameras in Istanbul's Sarıyer district caught an animal officials assessed as resembling a lion. Thermal cameras found it, a tranquilizer attempt reportedly failed, and by Monday morning the search had run more than 12 hours with no capture announced. Where it came from, nobody has confirmed.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/iss-mice-artificial-gravity-bone-1g.jpg
+image_alt: "White mice in spinning centrifuge pods on a space station, each with a bone icon, while one unspun mouse floats beside a window showing Earth"
 title: Spun Mice on the Space Station Kept Their Bones. Only Full Earth Gravity Did the Whole Job.
 desk: Science
 dek: A NASA- and JAXA-funded experiment ran mice in centrifuges on the ISS at one-third, two-thirds and full gravity. One-third and two-thirds only partly helped, and NASA released the raw data this week.

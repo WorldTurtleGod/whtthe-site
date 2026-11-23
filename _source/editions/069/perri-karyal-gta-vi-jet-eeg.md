@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/perri-karyal-gta-vi-jet-eeg.jpg
+image_alt: "A gamer seen from behind in a sensor cap, thought bubbles above her head, as a fighter jet takes off on the screen while the controller sits untouched"
 title: She Stole a Jet in GTA VI Without Touching the Controller. Her Brain Pressed the Buttons.
 desk: Games
 dek: Streamer Perri Karyal posted a clip Sunday of an EEG headset turning three trained thoughts into button presses. Her eyes and head did the steering, and she says the stunt took ages.

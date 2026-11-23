@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/clayton-china-got-nvidia-chips-cnn.jpg
+image_alt: "An open vault with an empty pedestal and a trail of tiles leading through a fence to a cargo ship at night, beside a TV studio where two people watch a screen"
 title: Did China Get America's Best AI Chips? "Yes," the Spy Chief Said on Sunday TV.
 desk: Tech & AI
 dek: On CNN's State of the Union, Director of National Intelligence Jay Clayton said China appears to have gotten access to restricted Nvidia chips, based on a pending New York indictment. Asked whether he had warned the Commerce secretary, he said no.

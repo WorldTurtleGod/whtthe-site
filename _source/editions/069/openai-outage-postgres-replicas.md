@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/openai-outage-postgres-replicas.jpg
+image_alt: "A glowing futuristic server tower resting on two cracked filing-cabinet pillars, with a ladder and toolbox beside them and its upper windows going dark"
 title: Two Database Replicas Failed. Three of Four ChatGPT Requests Failed With Them.
 desk: Tech & AI
 dek: On November 21, between 1:48 and 5:21 PT, OpenAI's failure rate peaked at 75% across paid and free ChatGPT and the API. OpenAI's own write-up gives the cause: maintenance on a PostgresDB service took down both read replicas behind the authentication layer for the entire stack.

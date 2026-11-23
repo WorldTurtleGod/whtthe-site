@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/democrats-258-house-majority.jpg
+image_alt: "Illustration of the House chamber from the gallery, one side packed with members and the other nearly empty, with one tall block tower and one short tower between them and a cart of blank blocks beside them"
 title: 258 Seats: Democrats Just Took the Biggest House Majority Either Party Has Held Since the Early 1990s
 desk: Power
 dek: On Sunday, Democrat Chuck Hubbard defeated Republican Rep. Virginia Foxx in North Carolina, giving House Democrats at least 258 seats — their best result since 1992, with four races still uncalled. The Senate will also be Democratic, the White House Republican. Divided government, with a very wide margin on one side of it.

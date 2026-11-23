@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/sowell-farms-milton-lights.jpg
+image_alt: "A farm at dusk covered in Christmas light reindeer and sleighs, cars lining the road, and an older person in a wheelchair watching beside a family member"
 title: The City Cancelled Christmas. The Farm at the End of the Road Didn't.
 desk: Culture
 dek: Missy Sowell and her family have run the North Pole Christmas Light Display in Milton, Florida, for more than 30 years. Hurricane Isaias delayed this year's work and the city cancelled its own holiday events. The farm opened Friday night anyway — 7650 Sowell Road, nightly through Christmas Day.

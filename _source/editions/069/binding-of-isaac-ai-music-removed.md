@@ -1,4 +1,6 @@
 ---
+image: /images/stories/069/binding-of-isaac-ai-music-removed.jpg
+image_alt: "Cartoon hero on a little wheeled crate in a neon city at night as a giant magnifying glass reveals a broken cassette whose tape ends in a robot hand"
 title: The Creator Woke Up to a Sh*t Show: Isaac's GTA Parody Shipped With AI Music Nobody Disclosed
 desk: Games
 dek: The Binding of Isaac: Repentance+ launched November 19 with a GTA 6-themed secret run. Players extracted the files and found Suno metadata on its songs. Creator Edmund McMillen said he had no idea. Publisher Nicalis removed the generated music on November 21 — after the DLC had already been review-bombed to Overwhelmingly Negative.
