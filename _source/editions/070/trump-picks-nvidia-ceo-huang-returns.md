@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/trump-picks-nvidia-ceo-huang-returns.jpg
+image_alt: "Illustration of a figure seen only from behind pulling an empty high-backed chair through a boardroom doorway toward a table of people with their hands raised, rising arrows in the window, and a corridor of empty chairs and microphones facing a capitol dome"
 title: The President Picked the CEO. The Board Said Yes. Congress Wants to Know Who Else Was in the Room.
 desk: Power
 dek: Eleven days after Jensen Huang resigned over an affair with a woman U.S. authorities suspect of spying for China, Nvidia's board brought him back — after the president lobbied the board himself. The stock gained $900 billion in a day. Congress, from both parties, is not satisfied.

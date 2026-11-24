@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/k-pop-the-debut-trailer-seoul.jpg
+image_alt: "A young woman seen from behind, a crumpled coat and papers in her bag, stepping from a doorway where a man sits at a kitchen table with a medical symbol toward a night stage with four empty glowing chairs under spotlights, a waiting car, a film camera and clapper, and a city tower in the distance"
 title: She Told Her Dad It Was a Hospital Internship. It Was a K-Pop Audition in Seoul.
 desk: Culture
 dek: "Paramount released the first full trailer for K-Pop: The Debut on Monday, a HYBE America co-production shot in Seoul, with idols from ENHYPEN, SEVENTEEN and KATSEYE turning up as judges, drivers and hosts. It opens Feb. 26, 2027."

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/epic-kills-blueprints-unreal-engine-6.jpg
+image_alt: "A workshop workbench with node-and-wire diagrams spilling from an open cardboard box, a person in a hoodie seen from behind looking out at a floating fortress linked by a node bridge to a mechanical structure, and a glowing robot arm typing on a wall of code"
 title: Epic Just Killed Blueprints — and Handed the Keys to the AI
 desk: Games
 dek: Unreal Engine 6 will ship without Blueprints, the visual scripting that let non-coders build games. Epic says AI will convert your old project for you. The developers who built their careers on Blueprints get to find out if that's true.

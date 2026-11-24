@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/billy-schus-23rd-free-thanksgiving.jpg
+image_alt: "A line of people on a gray street carrying takeout trays past a van loaded with covered dishes, while inside a warmly lit restaurant a cook carves a turkey, someone washes dishes, a donation box sits by the door, and children at a front table make paper hand decorations"
 title: Twenty-Three Thanksgivings in a Row, This Family Feeds Hornell for Free
 desk: Culture
 dek: Billy Schu's in Hornell, New York, will serve more than 500 free turkey dinners this Thanksgiving — its 23rd straight year. The family moved its own Thanksgiving to Saturday so they can stay longer at the restaurant. This year's dinners are dedicated to two young people the town lost.

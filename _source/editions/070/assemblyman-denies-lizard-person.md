@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/assemblyman-denies-lizard-person.jpg
+image_alt: "A wood-paneled hall where a silhouetted speaker stands at a podium, a young man holds blank papers with his eyes rolled back under a camera flash, an older smiling man holds a sealed document and a briefcase, phones in the crowd show lizards and aliens, and a film clapper is marked with a question mark"
 title: A New York Lawmaker Had to Deny He's a Lizard Person. His Dad Went Further.
 desk: Strange
 dek: A clip of Assemblyman Jordan J.G. Wright rolling his eyes behind the mayor went viral over the weekend, and the internet decided he was a reptile in disguise. Wright says he's human. His father says the Men in Black dropped him off as a baby.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/humans-crowded-out-neanderthals.jpg
+image_alt: "A snowy valley with two small groups sitting by fires in cave mouths, a broken web of dotted paths between them, a dense crowd of people and campfires filling the valley floor, and a storm hanging over the distant mountains"
 title: We Didn't Just Outlive the Neanderthals — We Crowded Them Out
 desk: Science
 dek: A new simulation study in Science Advances says climate change alone almost certainly didn't finish the Neanderthals. It was us — arriving, spreading, and cutting off the connections between their groups until the isolated bands couldn't recover.

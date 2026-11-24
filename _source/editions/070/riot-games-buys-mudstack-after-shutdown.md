@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/riot-games-buys-mudstack-after-shutdown.jpg
+image_alt: "An emptied studio with a file cabinet, a cloud-shaped board, and two calendar pages on the wall as workers carry boxes of files out; the same cloud-shaped locker, tagged with a blank price label, is wheeled toward a closed fortress gate where people wait with empty drives while a figure with a badge enters a side door"
 title: Riot Bought Mudstack Two Months After the Tool Maker Told Customers to Get Their Files Out
 desk: Games
 dek: The Tencent-owned League of Legends studio acquired the game-art platform and hired its team. It did not disclose a price, did not explain the September shutdown, and did not promise to bring the public service back.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/hemp-ban-december-11-budd-letter-wiles.jpg
+image_alt: "A gas-station counter stacked with candy and snack bags under two clocks and a calendar bearing two different stamps — a banned bag and a government building — while a signed letter slides out of a small house-shaped slot, a shopfront sits in the hallway beyond, and a blank scroll hangs on the wall"
 title: "Fourteen GOP Senators Told Trump: No More Hemp Delays. Reports Say the Last One Came From His Own White House."
 desk: Power
 dek: The ban on intoxicating hemp THC products takes effect Dec. 11, the same day government funding runs out. Fourteen Republican senators want Trump to keep it that way. Reports say the last postponement came from the White House, where the ban would hit a business run by a member of the then-chief of staff's family.

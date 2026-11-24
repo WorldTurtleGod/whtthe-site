@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/anthropic-58-companies-hiring-less-contractors.jpg
+image_alt: "An office with an exit-arrow door and a single moving box, a computer desk with two empty chairs, three wall clocks set to different times, a door chained and padlocked shut beside a stack of papers, a small vendor stall, and two people at a table, one with a clipboard"
 title: "‘We May Not Be Firing, but We're Not Hiring.’ Anthropic Asked 58 of Its Customers What AI Is Doing to Jobs."
 desk: Tech & AI
 dek: Only two of the companies said AI had fully eliminated a position. Two-thirds said it had cut their hiring, and nine had dropped contractors, many of them offshore. The study comes from the company selling the AI.

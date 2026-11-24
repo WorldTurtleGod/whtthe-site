@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/crowdstrike-buys-zscaler-439-billion.jpg
+image_alt: "A balance scale with a taller stack of certificates on one pan and a flatter stack on the other, between a castle built of laptops and phones with its gate open and a blank scroll unrolling toward a cloud-shaped mound of locked doors, a circular seal hovering above"
 title: CrowdStrike Is Buying Zscaler for $43.9 Billion in Stock
 desk: Tech & AI
 dek: The endpoint-security giant is swallowing the zero-trust pioneer in an all-stock deal worth nearly $44 billion. Zscaler shareholders get a 34% premium. CrowdStrike shareholders get the bill — its stock fell 5% on the news.

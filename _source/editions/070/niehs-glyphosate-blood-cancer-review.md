@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/niehs-glyphosate-blood-cancer-review.jpg
+image_alt: "A lab counter with a spray bottle, a stack of papers under a magnifying glass marked with checkmarks, a farm field in the window, a shield with an X hanging on one of two doors, an unstamped folder showing blood cells and a small mouse sliding from a slot, and an unused ink pad beside it"
 title: The EPA Says Roundup's Key Ingredient Probably Doesn't Cause Cancer. Government Scientists Just Found a Link.
 desk: Science
 dek: A systematic review by scientists at the National Institute of Environmental Health Sciences, requested by HHS and posted Nov. 20 before peer review, found a positive association between glyphosate herbicides and blood cancers, mostly non-Hodgkin lymphoma. A companion review reportedly found tumors in lab animals.

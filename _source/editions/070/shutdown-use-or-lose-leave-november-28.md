@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/shutdown-use-or-lose-leave-november-28.jpg
+image_alt: "A federal office desk with a leave form and pen, a wall calendar with one date circled, a larger calendar crumbling into a cliff, a wreath with a padlock on a door that opens onto a Christmas tree, two envelopes — one sealed, one torn — two rulebooks, and an empty chair at a set holiday table"
 title: "Federal Workers: Schedule Your Use-or-Lose Leave by Saturday. A December Shutdown Could Eat It Otherwise."
 desk: Power
 dek: Senate Republicans now say they're open to Democrats' demand to cut off new money for the Iran war, but there's no deal and the Dec. 11 deadline is 17 days out. OPM's rules set a Nov. 28 deadline for protecting leave that a shutdown could wipe out. Christmas Day would bring no holiday pay during a lapse.

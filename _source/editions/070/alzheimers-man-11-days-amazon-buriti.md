@@ -1,4 +1,6 @@
 ---
+image: /images/stories/070/alzheimers-man-11-days-amazon-buriti.jpg
+image_alt: "A forest path with half-eaten fruit and a bed of palm leaves in the foreground, looping footprints on the trail, an elderly man sitting ahead in a shaft of light, and two rescuers approaching with a stretcher, one pointing toward him"
 title: A 74-Year-Old With Alzheimer's Was Lost in the Amazon for 11 Days. The Bite Marks on the Fruit Gave Him Away.
 desk: Strange
 dek: Rescuers in Brazil's Amapá state tracked Janarino Ferreira dos Santos through half-eaten buriti fruit, beds of açaí leaves and footprints that kept circling back. They found him alive, days before the search was set to be called off.
