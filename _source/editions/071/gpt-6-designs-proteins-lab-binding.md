@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/gpt-6-designs-proteins-lab-binding.jpg
+image_alt: "A person seen from behind at a computer showing protein ribbons, a chalkboard of similar sketches, eight unattached molecule models and one locked onto a target, lab tools, a stack of books and a large question mark"
 title: A Chatbot Designed Proteins. About One in Nine Actually Stuck to Their Targets.
 desk: Tech & AI
 dek: OpenAI says its GPT-6 models can sketch new protein shapes and sequences with nothing but reasoning and code, and that 35 of 322 lab-tested designs bound their targets. Specialist tools still did key steps, and some scientists suspect memorization.

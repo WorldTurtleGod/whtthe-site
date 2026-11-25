@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/tidal-bans-fully-ai-music.jpg
+image_alt: "A robot claw pulls blank white discs from a wall of unique record sleeves into an overflowing bin, while a person seen from behind points at a wall chart of mostly empty circles, with a marked calendar and unused stamps on a desk"
 title: Tidal Is Deleting the Robots: 29 Million AI Songs Headed for Removal
 desk: Tech & AI
 dek: Tidal says more than 43% of tracks uploaded in the last 90 days were fully AI-generated. Starting December 9, it will ban and remove them — a private platform cleaning its own house, no government ban required.

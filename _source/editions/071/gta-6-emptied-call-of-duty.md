@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/gta-6-emptied-call-of-duty.jpg
+image_alt: "A packed city street of people walking toward a poster of a lone figure on a road, beside a nearly empty fenced arena with abandoned controllers, a chart of mostly gray figures with only a few filled in, and four clocks"
 title: GTA 6 Emptied Call of Duty. Four Days Later, It Still Hasn't Filled Back Up.
 desk: Games
 dek: Alinea Analytics estimates Call of Duty's daily players fell 42% on GTA 6's launch day and were still 41% below baseline four days later — the slowest recovery of the big live-service games, despite the least audience overlap. These are analyst estimates, not official counts. The behavior they describe is the story.

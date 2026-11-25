@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/air-pollution-metals-asthma-sensor.jpg
+image_alt: "A city skyline sheds metal flakes into a cutaway airway with a switch flipped on, while a lab inhaler flips a similar switch off beside petri dishes, a microscope and a mostly blank clipboard"
 title: Metal Dust in Dirty Air Flips a Switch in Your Airways. Scientists Say Existing Drugs Can Flip It Back.
 desk: Science
 dek: A King's College London and Cardiff University study links metal particles in air pollution to severe asthma attacks and names the airway sensor they trigger. Drugs that block it worked in lab tests, not yet in patients.

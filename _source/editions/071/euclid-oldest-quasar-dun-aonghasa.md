@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/euclid-oldest-quasar-dun-aonghasa.jpg
+image_alt: "A space telescope points across a dark sky past a faint dashed spiral and a tiny seed toward a large black hole with a thin glowing ring, a timeline bar marked near the start running along the bottom"
 title: A Black Hole Too Big, Too Early: Euclid Found the Oldest Quasar Yet
 desk: Science
 dek: The Euclid telescope spotted a quasar shining just 630 million years after the Big Bang, powered by a black hole already 360 million times the sun's mass — and feeding slowly. Either it grew in furious early bursts, or it was born big. The models have a problem.

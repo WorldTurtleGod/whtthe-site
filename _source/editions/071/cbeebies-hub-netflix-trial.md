@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/cbeebies-hub-netflix-trial.jpg
+image_alt: "Two children watch a modern TV where simple shape characters walk through a doorway, an old antenna set sits dark, two wall maps with different countries crossed out, a piggy bank with a question mark, and a public building with an envelope in the window"
 title: Teletubbies Are Moving to Netflix. Britain's TV-Tax-Funded Kids' Channel Is Following the Children.
 desk: Culture
 dek: The BBC will put shows from 24 CBeebies programs, including Hey Duggee and Numberblocks, in a branded Netflix hub from December 2. A separate deal brings the shows to U.S. Netflix.

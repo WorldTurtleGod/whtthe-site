@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/section-241-reitz-letters-oversight.jpg
+image_alt: "A hand slides a letter stamped with an open book onto a table beside a tied stack of papers and an open law book, empty hearing-room chairs, a locked gate holding three figures back, and an unused stamp on a side desk"
 title: The Same Charge Jack Smith Used on Trump Is Now Being Waved at Democrats. No One Has Been Charged.
 desk: Power
 dek: A Texas U.S. attorney and the White House counsel have warned incoming Democratic investigators that their oversight could amount to a federal "conspiracy against rights." Legal experts call it payback; the Justice Department says it is enforcing the law.

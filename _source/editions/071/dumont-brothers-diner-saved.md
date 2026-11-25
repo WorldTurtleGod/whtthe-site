@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/dumont-brothers-diner-saved.jpg
+image_alt: "Two apron-wearing brothers at a diner counter with eggs, bacon and pastries, one greeting a line of people at the door, framed photos on the wall, a sold tag by the register, and a lit cafe with a patched wall across the street at dusk"
 title: Two Brothers Bought a Century-Old Diner Off Facebook Marketplace. Now They Want Another Hundred Years.
 desk: Culture
 dek: Dumont Brothers Diner in Dumont, New Jersey, opened November 9 in the old Dumont Crystal Diner, billed as Bergen County's oldest. Gus and John Grimanis kept the memorabilia, added Greek family recipes, and drew hundreds to the grand opening. Plus: the Belmont Café in Waymart is back in business.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/purple-highway-car-wash-dye.jpg
+image_alt: "A truck leaves a long dark wet streak down a fenced highway across open countryside, rain falling from heavy clouds, two people photographing the stain, officials holding a sign, and a hose beside a parked car"
 title: A Leaky Truck Painted Three States Purple. Nobody Is Cleaning It Up.
 desk: Strange
 dek: A vivid purple streak ran for miles along highways in New Jersey, New York, and into Pennsylvania. Officials traced it to a leaking tractor-trailer hauling car wash dye. The substance is non-hazardous, so the official cleanup plan is: rain.

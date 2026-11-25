@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/witcher-4-sony-marketing-deal.jpg
+image_alt: "Two people at a workshop table with a blank scroll, an easel showing a blank tag in a circle, a stepped tower model, a small box beside a larger one, a rainy city billboard, a calendar with a question mark, and two players waiting at a closed door"
 title: The Witcher 4 Just Signed With PlayStation. CD Projekt Says Expect a GTA VI-Sized Leap.
 desk: Games
 dek: On its third-quarter earnings call, CD Projekt Red said it signed new agreements with Sony covering PlayStation, PlayStation Plus and the coming Witcher 4 marketing campaign. The game is still due in 2028.

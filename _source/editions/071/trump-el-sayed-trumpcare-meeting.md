@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/trump-el-sayed-trumpcare-meeting.jpg
+image_alt: "A figure seen from behind sits across a desk from a person holding a thick stack of papers, with a gold card bearing a medical emblem on the table, an open door to a hallway, and a hand turning a blank poster to face the wall"
 title: The President Who Campaigned Against Medicare for All Now Wants a Meeting About It
 desk: Power
 dek: President Trump told the New York Post he will meet Michigan Sen.-elect Abdul El-Sayed about the Democrat's Medicare for All pitch — rebranded "Trumpcare." He committed to nothing. But a Republican president entertaining government coverage for everyone deserves the same two questions this paper asks of any growth of government.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/071/ben-franklin-impersonator-arrested-boston.jpg
+image_alt: "A man in colonial costume is handcuffed on a cobblestone street as a bystander films, warrant papers in an officer's pocket, a kite and key in a bag, and through a doorway the same costumed man sits in a courtroom with a gavel and a blank paper"
 title: Police Saw Benjamin Franklin on Hanover Street. They Recognized a Man With Two Warrants.
 desk: Strange
 dek: A 66-year-old Boston tour guide who works as a Franklin impersonator was arrested in full colonial costume in the North End — and showed up to his arraignment still wearing it.
