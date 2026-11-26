@@ -28,4 +28,3 @@ Sources:
 Evidence:
 - quote: Without this anomaly, Golden Dome will be unable to continue production. — White House anomalies list, via Breaking Defense, November 24, 2026
 - quote: Without this anomaly material delays would impact cost and on-time delivery of the Battleship. — White House anomalies list, via The Fiscal Times, November 24, 2026
-=====

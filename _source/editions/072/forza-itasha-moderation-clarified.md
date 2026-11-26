@@ -29,4 +29,3 @@ Evidence:
 - quote: Some creators have found our rules unclear or our decisions inconsistent. — Playground Games, Forza blog
 - quote: When content is reported, a human moderator reviews it. — Playground Games, Forza blog
 - quote: An open mouth, protruded tongue, or flirtatious eyes by themselves aren't automatically a violation. — Playground Games, Forza blog
-=====

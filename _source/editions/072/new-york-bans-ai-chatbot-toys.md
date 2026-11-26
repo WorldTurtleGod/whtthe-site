@@ -24,4 +24,3 @@ Sources:
 Evidence:
 - quote: Parents shopping for gifts for the holidays or any other occasion should not have to worry that dangerous chatbots disguised as toys could expose their children to inappropriate conversations, manipulate their feelings or put their privacy at risk. — Governor Kathy Hochul, New York governor's release
 - quote: We're partnering closely with the attorney general on this and the fees are very steep — they're $15,000 a day. So working closely with the attorney general will make sure these toys are banned in New York State. — Albert Pulido, deputy secretary for finance and technology, via TechCrunch, November 25, 2026
-=====

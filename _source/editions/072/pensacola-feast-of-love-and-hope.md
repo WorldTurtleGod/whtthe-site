@@ -26,4 +26,3 @@ Evidence:
 - quote: It feels like I have friends. — Julian Childress, guest, via Pensacola News Journal, November 25, 2026
 - quote: We don't just fill plates. What we try to show them is that you're not forgotten, that somebody loves you. — Linda "Sonshine" Moorer, via Pensacola News Journal, November 25, 2026
 - quote: If we only impact them today, then that's significant. And hopefully today leads to tomorrow. — Escambia County Chief of Corrections William Powell, via Pensacola News Journal, November 25, 2026
-=====

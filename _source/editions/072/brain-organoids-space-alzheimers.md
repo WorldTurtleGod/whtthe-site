@@ -23,4 +23,3 @@ Sources:
 Evidence:
 - quote: We often talk about Alzheimer's as though it follows one predictable path. What we're seeing suggests that different genetic forms may respond very differently to the same stress. — Alysson R. Muotri, UC San Diego, November 25, 2026
 - quote: These exploratory findings indicate that spaceflight reshapes neuronal regulation in human brain organoids, revealing coordinated molecular responses relevant to AD biology. — Science Advances paper abstract, 2026
-=====
