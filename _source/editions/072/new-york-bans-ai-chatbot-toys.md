@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/new-york-bans-ai-chatbot-toys.jpg
+image_alt: "A parent and child, seen from behind, look at a caged store shelf of glowing teddy bears, dolls and toy robots, a calendar with one date marked, while the parent holds a plain unlit teddy bear"
 title: New York Just Banned the Talking Teddy Bear for Five Years
 desk: Tech & AI
 dek: Governor Hochul signed a five-year moratorium on toys with AI chatbots — talking stuffed animals, dolls and robots that converse with kids online. It takes effect February 22, 2027, with penalties up to $15,000 a day. The safety findings behind it are real reporting about specific toys, not proof about every toy.

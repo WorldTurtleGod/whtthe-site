@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/chess-record-chimborazo-summit.jpg
+image_alt: "Two climbers in hoods and goggles sit on a snowy peak playing chess, one moving a piece, an ice axe beside the board, and a snow-covered mountain rising above the clouds behind them"
 title: Checkmate at 20,593 Feet: Two Friends Played Chess on Top of a Mountain
 desk: Strange
 dek: Adam Wininger and Joshua Host climbed Chimborazo in Ecuador, set up a chess board at 6,277 meters, and took the record for the highest board game ever played — by 200 feet. Guinness published the record this week; the climb was in March.

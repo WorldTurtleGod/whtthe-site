@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/snap-categorical-eligibility-rule-december-10.jpg
+image_alt: "A grocery checkout line of families waits behind a rope as a suited official holds a stamp and a blank disc, a calendar on the wall has one date marked and a torn corner, a comment envelope in a slot, and a capitol building visible through the window"
 title: USDA Wants 6.3 Million People Off SNAP. The Public Has Until December 10 to Answer.
 desk: Power
 dek: A rule the Agriculture Department published on November 10 would end "broad-based categorical eligibility," cutting federal SNAP spending by an estimated $44.6 billion over five years. Pennsylvania says 310,000 of its residents would lose benefits. Senate Democrats say Congress has refused to make this change by law more than once.

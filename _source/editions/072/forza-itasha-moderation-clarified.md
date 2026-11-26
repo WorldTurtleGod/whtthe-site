@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/forza-itasha-moderation-clarified.jpg
+image_alt: "A wet night street lined with sports cars painted with cartoon characters on one side and sheet-covered cars on the other, while a person studies an open rulebook marked with a triangle and a circle as a line of people waits with papers"
 title: Playground Says Anime Cars Are Welcome in Forza. The Banned Creators Want More Than a Blog Post.
 desk: Games
 dek: After months of complaints that its livery rules were secret and inconsistent, Playground Games published its moderation numbers: 14,000 designs reported, 60 permanent bans. It promises clearer rules and better appeals. It said nothing about giving anyone their designs back.

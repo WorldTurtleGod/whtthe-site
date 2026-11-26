@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/kutaragi-consoles-price-of-a-car.jpg
+image_alt: "A person seen from behind on a sofa holds a game controller, facing a simple white console on a low table with a blank price tag whose string stretches out the window toward a distant city skyscraper"
 title: The Man Who Built PlayStation Says Game Machines Cost "the Price of a Car." He Thinks Consoles Could Die.
 desk: Games
 dek: Ken Kutaragi, the engineer who fathered the PlayStation, told The Game Business that hardware prices are "not healthy" and that "the age may be coming where we don't need any consoles." He now runs an AI company, which is worth knowing when you weigh the prediction.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/brain-organoids-space-alzheimers.jpg
+image_alt: "Three vials in a space-station rack hold different mini-brain forms — a sphere in bubbles, a tangle of fibers and a branching tree — with Earth in the window and a monitor showing the same vials"
 title: Mini-Brains in Orbit Show Alzheimer's Does Not Take One Path
 desk: Science
 dek: UC San Diego sent Alzheimer's-modeling brain organoids to the space station for 40 days. Different inherited mutations answered the same stress in wildly different ways — 7,404 genes shifted in one model, 643 in another. Preliminary, peer-reviewed, and not a cure claim.

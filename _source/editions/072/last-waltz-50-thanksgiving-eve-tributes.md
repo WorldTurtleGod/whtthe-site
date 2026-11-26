@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/last-waltz-50-thanksgiving-eve-tributes.jpg
+image_alt: "A film strip frames a concert hall where a band plays for an audience eating turkey dinners, and at right an old television in a living room shows the same stage scene"
 title: The Band Served 5,000 Turkey Dinners and Said Goodbye. Fifty Years Later, Thanksgiving Eve Still Belongs to The Last Waltz.
 desk: Culture
 dek: On Thanksgiving Day, November 25, 1976, the Band played its farewell at San Francisco's Winterland with Dylan, Joni Mitchell, Neil Young and Muddy Waters. For the 50th anniversary, musicians in Toronto and Denver lined up tribute shows, and fans kept a yearly ritual of watching the film.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/hera-dimorphos-stadium-crater-dart.jpg
+image_alt: "A spacecraft approaches two asteroids, the smaller one spinning with a large orange core exposed in a bowl-shaped crater, the larger one cratered and trailing debris, a sun in the corner"
 title: NASA Punched an Asteroid in 2022. Europe Just Arrived to Photograph the Black Eye.
 desk: Science
 dek: The European Space Agency's Hera spacecraft sent back its first close-ups of Dimorphos, the asteroid NASA's DART probe rammed four years ago. The hit flattened one whole face into a stadium-sized crater, left the rock tumbling, and filled the neighborhood with hundreds of boulders nobody knew were there.

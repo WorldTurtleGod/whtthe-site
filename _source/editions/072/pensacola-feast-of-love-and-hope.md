@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/pensacola-feast-of-love-and-hope.jpg
+image_alt: "In a bright hall, police, a paramedic and servers wait in line while a parent and child carry a plate, older guests eat at long tables, and two cooks carve a turkey and a ham beside bowls of sides"
 title: Pensacola's Feast Nearly Lost Its Home. The Neighborhood Became the Venue.
 desk: Culture
 dek: The 16th annual Feast of Love and Hope served hundreds on Tuesday after its usual hall went under renovation. The cooks included workers with significant disabilities; the servers included police officers, corrections staff, lawyers and a barber with his 12-year-old son.

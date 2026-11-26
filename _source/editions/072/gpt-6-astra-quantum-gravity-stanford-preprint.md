@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/gpt-6-astra-quantum-gravity-stanford-preprint.jpg
+image_alt: "A lecturer stands before a blackboard of spacetime diagrams, three reviewers at a table examine a paper with magnifying glasses, a screen shows similar shapes, and part of the audience cheers with trophies and confetti"
 title: A Stanford Physicist Spent 400 Million AI Tokens on Quantum Gravity. The Paper Is Real. The Victory Laps Are Early.
 desk: Tech & AI
 dek: Venkatesa Chandrasekaran posted a preprint to arXiv this week proposing a way to quantize Einstein's gravity, and he credits months of work with OpenAI's GPT-6 Astra for several of its calculations and proofs. Nobody has checked it yet, and the paper itself is more careful than the headlines.

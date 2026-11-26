@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/white-house-cr-anomalies-golden-dome.jpg
+image_alt: "An empty legislative chamber at night, coats and a Thanksgiving wreath by the door, a calendar with one date circled, and a desk lamp lighting a heap of models: a faceted dome, a warship, a missile, a submarine, a helicopter and a crate of munitions spilling from wrapping paper"
 title: Congress Went Home for Thanksgiving. The White House Sent a Missile-Shield Bill.
 desk: Power
 dek: With funding expiring December 11 and zero of 12 spending bills passed, the White House sent Congress a 12-page list of exceptions it wants in the next stopgap — $5 billion for Golden Dome, more than $21 billion for submarines, and a battleship. A "temporary" measure is becoming the whole budget fight.

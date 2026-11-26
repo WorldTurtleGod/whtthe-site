@@ -1,4 +1,6 @@
 ---
+image: /images/stories/072/nyc-manhole-gramercy-sewer-six.jpg
+image_alt: "At night, figures in hard hats and headlamps climb out of a steaming manhole with shovels and pickaxes, others walk toward a waiting car, and a person watches from a lit window"
 title: Five People Climbed Out of a Manhattan Manhole Before Dawn. A Sixth Was Waiting in the Getaway Car.
 desk: Strange
 dek: The NYPD has released photos of six people it wants for criminal trespassing after a crew in headlamps came up out of the sewer near Gramercy Park and drove off in a red sedan. It's the latest in a string of New York manhole sightings this year, and some of the people caught earlier said they were hunting gold.
