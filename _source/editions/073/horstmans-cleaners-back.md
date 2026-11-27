@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/horstmans-cleaners-back.jpg
+image_alt: "A gray-haired man in a suit cutting a ribbon at a dry-cleaner shop doorway, a cane beside a puddle of melted ice on the sidewalk, townspeople watching, racks of shirts in the window, and a large boiler and framed portraits visible inside"
 title: The Dry Cleaner Carbondale Lost to a Patch of Ice Is Back
 desk: Culture
 dek: Jon Kirk slipped on the ice outside his century-old shop, broke his ankle in several places, and closed for more than seven months. This month Carbondale cut the ribbon on his return.

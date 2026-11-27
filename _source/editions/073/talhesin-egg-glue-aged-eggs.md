@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/talhesin-egg-glue-aged-eggs.jpg
+image_alt: "A lab bench with a microscope and two dish models, one egg cell with chromosomes held together by threads and another with the chromosomes drifting apart, a mouse in a tank behind them, two researchers seen from behind, and a closed door in the distance"
 title: Scientists Built a Replacement Glue for Aging Eggs. It Works in Mice. Humans Are Years Away.
 desk: Science
 dek: A Max Planck team engineered "TALhesin," a protein system that stands in for the chromosome glue eggs lose with age. In 17-month-old mice it lifted the share of eggs with no premature splitting from 46.7% to 74.1%, about what young mice show. Outside experts call it clever and warn nobody has fertilized a treated egg yet.

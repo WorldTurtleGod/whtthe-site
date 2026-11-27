@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/rockstar-workers-reject-union-recognition.jpg
+image_alt: "A large pile of ballot slips marked with Xes and a much smaller pile with check marks beside a ballot box, four workers walking away carrying a handshake banner, a city mural on the wall, and a star trophy on a cabinet in the back"
 title: GTA VI Broke Every Record. Rockstar's Own Staff Just Broke Up With the Union Deal.
 desk: Games
 dek: In a two-week ballot that ran straight through the biggest launch in gaming history, 75% of Rockstar's UK workers voted against a formal recognition agreement with the IWGB. Turnout was 93.2%. The union says it isn't going anywhere, and a tribunal over 31 fired members is still waiting on a judgment.

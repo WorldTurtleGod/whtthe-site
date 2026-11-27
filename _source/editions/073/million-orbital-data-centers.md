@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/million-orbital-data-centers.jpg
+image_alt: "A person at a rooftop telescope looking up at a night sky filled with a faint grid of boxy modules, a desk calendar with several days ticked, and a stamped permit hanging from a tall office building"
 title: Washington Just Licensed a Million AI Data Centers in Orbit
 desk: Tech & AI
 dek: The FCC authorized SpaceX to deploy a million orbital compute modules. There are about 16,700 working satellites in space today.

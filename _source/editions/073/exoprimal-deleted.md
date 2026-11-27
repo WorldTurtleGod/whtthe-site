@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/exoprimal-deleted.jpg
+image_alt: "An armored dinosaur-like shooter figure crouched on a lit circular platform, a boxed copy of the same figure used as a coaster under a mug, a dark server rack with a few lights still on, a calendar with one square marked, and game boxes with blank tags on a store shelf"
 title: Capcom Is Deleting Exoprimal. Even the Disc Won't Work.
 desk: Games
 dek: Capcom posted the death notice on November 25: the dinosaur shooter ends service in September 2027, and owning it on a disc will not save it.

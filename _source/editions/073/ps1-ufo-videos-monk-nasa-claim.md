@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/ps1-ufo-videos-monk-nasa-claim.jpg
+image_alt: "A hooded figure opening a drawer, a cracked game disc spilling film onto a desk with a laptop, a game console, a folder stamped with a question mark, grainy photos of lights and a diamond-shaped object, and a magnifying glass over a moonlike photo beside a picture of a palace ruin"
 title: A Monk Says He Hid NASA's UFO Footage in a 1996 PlayStation Game. Someone Cracked the Disc.
 desk: Strange
 dek: On a podcast this week, a Buddhist priest who runs a space museum in Hakui, Japan, said he copied raw UFO film at NASA's Johnson Space Center and tucked it into a PS1 game as bonus content. Within days a Redditor pulled 90 videos off the disc with Linux and a script written by Claude. Whether any of it came from NASA is unproven.

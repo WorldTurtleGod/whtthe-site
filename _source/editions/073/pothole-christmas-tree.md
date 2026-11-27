@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/pothole-christmas-tree.jpg
+image_alt: "Four people around a decorated Christmas tree sitting in a cracked pothole with a bucket and wooden base, a fresh asphalt patch and a second tree by a blank roadside sign, and a fallen traffic cone in a shopping-center lot"
 title: A Pothole Got a Christmas Tree. Then the Pothole Got Patched.
 desk: Strange
 dek: A Pottstown crater ate years of complaints and one road cone. Then somebody planted a tree in it, and the hole finally got fixed.

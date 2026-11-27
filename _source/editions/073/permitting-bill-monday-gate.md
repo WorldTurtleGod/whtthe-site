@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/permitting-bill-monday-gate.jpg
+image_alt: "An empty legislative chamber with vacant seats, a blank folder waiting at a metal turnstile in the aisle, three figures in coats standing in a bright doorway, a wall calendar with one date circled, a holiday wreath and hanging coats by the door, and industrial plants visible through a window"
 title: Congress Comes Back Monday. The Permitting Bill Is First Through the Gate.
 desk: Power
 dek: The House Rules Committee meets Monday afternoon on the Senate-passed permitting bill, and the groups trying to kill it say this is their last stop.

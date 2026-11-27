@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/macys-parade-postponed-first-time.jpg
+image_alt: "Handlers walking a bear balloon, a star balloon and a cloud balloon through stormy water past empty reviewing stands, a tattered banner whipping in the wind, a sign showing a mark moved from one square to another, and a long row of small flags with one at the end leaning over"
 title: 100 Parades Since 1924. Not One Postponed. Until Now.
 desk: Culture
 dek: Macy's pushed its 100th Thanksgiving Day Parade to Saturday at 8:30 a.m. ET as a nor'easter brought forecast gusts of up to 65 mph to New York. It is the first postponement since the parade began in 1924. The balloons went back to New Jersey for a weeks-long prep job crammed into about a day.

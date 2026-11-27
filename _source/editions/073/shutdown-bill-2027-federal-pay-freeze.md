@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/shutdown-bill-2027-federal-pay-freeze.jpg
+image_alt: "A table with a pay stub locked in ice, a blank page in the center, two cards showing a police badge and a military cap with upward arrows, a folder with a cracked padlock and an up arrow, a calendar with one date marked, and a hand in a window holding a folder toward the Capitol"
 title: Your 2027 Raise Is Zero Unless the Shutdown Bill Says Otherwise. It Happened Once Before.
 desk: Power
 dek: Trump's pay plan freezes base and locality pay for most civilian federal workers in 2027 while law enforcement gets 3.8% and troops get 5% to 7%. Nearly 40 unions want at least 3.8% for everyone written into whatever Congress passes by Dec. 11. In 2019, a shutdown-ending deal overrode a Trump freeze, retroactively.

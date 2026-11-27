@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/character-ai-chats-auction-42-ags.jpg
+image_alt: "Locked books and padlocked chat bubbles stacked on an auction block, shrinking down to a small teddy bear, a blank crate with a price tag in front, a gavel hanging in the air, a torn document on the floor, and a line of suited figures raising their hands to stop the sale"
 title: Your AI Chats Are Going to Auction Tuesday. 42 Attorneys General Want the Judge to Stop It.
 desk: Tech & AI
 dek: Bankrupt Character.AI plans to sell its app, its AI models and chat histories from more than 21 million U.S. accounts, 2.1 million of them registered to minors, at a December 1 auction. The opening bidder was a shell formed one day before it was picked. Its backer was named only after the judge held off on approving it.

@@ -1,4 +1,6 @@
 ---
+image: /images/stories/073/trump-gdp-fake-investigation-bea.jpg
+image_alt: "A silhouetted figure holding a magnifying glass over the taller of two bars on a chart, a calendar with one date circled, two clerks working at desks, and a wastebasket holding a discarded chart of a lower bar"
 title: The Economy Grew Faster Than First Reported. Trump Wants His Own Statisticians Investigated for It.
 desk: Power
 dek: On Thanksgiving morning the president called the government's pre-election growth estimate "FAKE" and demanded "an immediate investigation" after the Bureau of Economic Analysis revised third-quarter GDP up from 3.4% to 4.3%. The bureau's own release calendar, its revision history and the White House's own October press release cut against every part of the charge.
